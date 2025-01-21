@@ -1,7 +1,7 @@
 ################################## Exercise 3 codes######################################
 
 getwd() #get current working dir
-setwd("C:/Users/Ng Tien Anh Quach/OneDrive - University of North Carolina at Chapel Hill/UNC/Spring 2025/GEOG 215/Exercises") #set working dir to where you save your data
+setwd("C:/Users/Ng Tien Anh Quach/OneDrive - University of North Carolina at Chapel Hill/UNC/Spring 2025/GEOG 215/Data") #set working dir to where you save your data
 
 iris <- read.csv("iris.csv") #read your csv file
 head(iris) #check header of data
