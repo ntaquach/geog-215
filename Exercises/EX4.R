@@ -30,7 +30,7 @@ write.csv(mtcars,"mtcars.csv")
 
 
 
-###############FOR CLASS#########################
+###############FOR CLASS EXERCISE ON IRIS DATA#########################
 setwd("C:/GitHub Projects/geog-215")
 iris <- read.csv("./Data/iris.csv") #relative file path for future reference
 head(iris) #checking the header
@@ -47,3 +47,4 @@ iris_scatter <- iris %>% ggplot(aes(x=Petal.Length, y=Petal.Width)) + #making sc
 iris_scatter
 
 ggsave("Scatterplot IRIS.png",iris_scatter,path="Plots", width=7, height=7, bg="white") #save the scatterplot as an image file
+#there is an argument called path, it basically tells R to save my image file to the Plots folder in the geog-215 folder.
