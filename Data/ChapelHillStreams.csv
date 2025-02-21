@@ -1,0 +1,1944 @@
+"","Name","FeatureType","TownFlowType","SHAPESTLength"
+"1","East Branch","STREAM","perennial",628.350378117904
+"2","Lloyd's Branch","STREAM","perennial",486.234673976783
+"3","Lloyd's Branch","STREAM","perennial",165.565400185423
+"4","Tracy Branch","STREAM CENTERLINE","perennial",316.890757517841
+"5","Tracy Branch","CULVERT","perennial",53.9446454833813
+"6","Tracy Branch","STREAM CENTERLINE","perennial",134.160635227876
+"7","Tracy Branch","STREAM CENTERLINE","perennial",107.91896209843
+"8","Tracy Branch","CULVERT","perennial",41.7201659763189
+"9","Tracy Branch","STREAM CENTERLINE","perennial",172.495241859796
+"10","Tracy Branch","CULVERT","perennial",53.8745608320884
+"11","Tracy Branch","STREAM CENTERLINE","perennial",1087.8482758911
+"12","Booker Creek","STREAM CENTERLINE","perennial",2302.54355555473
+"13","Booker Creek","STREAM CENTERLINE","perennial",3.32108451890694
+"14","Booker Creek","CULVERT","perennial",114.270061399631
+"15","Booker Creek","STREAM CENTERLINE","perennial",249.467373278127
+"16","Booker Creek","CULVERT","perennial",77.5144276224876
+"17","Booker Creek","STREAM CENTERLINE","perennial",154.912600758392
+"18","Booker Creek","CULVERT","perennial",700.137519180588
+"19","Booker Creek","STREAM CENTERLINE","perennial",578.05170453894
+"20","Booker Creek","CULVERT","perennial",104.581932807341
+"21","Booker Creek","STREAM CENTERLINE","perennial",95.1453590995604
+"22","Bolin Creek","CULVERT","perennial",147.153005936411
+"23","Bolin Creek","CULVERT","perennial",101.35240482675
+"24","Bolin Creek","STREAM CENTERLINE","perennial",78.4360134619529
+"25","Bolin Creek","STREAM CENTERLINE","perennial",372.040278650587
+"26","Bolin Creek","CULVERT","perennial",47.893050833074
+"27","Bolin Creek","STREAM CENTERLINE","perennial",1024.70474522979
+"28","Bolin Creek","STREAM CENTERLINE","perennial",345.819551548889
+"29","Bolin Creek","STREAM CENTERLINE","perennial",1091.97955318935
+"30","Booker Creek","STREAM CENTERLINE","perennial",203.132891159217
+"31","Booker Creek","CULVERT","perennial",52.8829529752877
+"32","Booker Creek","STREAM CENTERLINE","perennial",667.069832023872
+"33","Meeting of the Waters","STREAM CENTERLINE","perennial",294.453318478033
+"34","Meeting of the Waters","CULVERT","perennial",74.8765862809085
+"35","Meeting of the Waters","STREAM CENTERLINE","perennial",824.258128156448
+"36","Meeting of the Waters","STREAM CENTERLINE","perennial",1865.10453395366
+"37","Meeting of the Waters","CULVERT","perennial",199.697883558472
+"38","Meeting of the Waters","STREAM CENTERLINE","perennial",299.273007531423
+"39","Meeting of the Waters","STREAM CENTERLINE","perennial",66.2566532499713
+"40","Wilson Creek","STREAM CENTERLINE","perennial",604.184995118926
+"41","Wilson Creek","CULVERT","perennial",62.2786497248082
+"42","Wilson Creek","STREAM CENTERLINE","perennial",372.364947696524
+"43","Bolin Creek","CULVERT","perennial",50.7731385953853
+"44","Bolin Creek","STREAM","perennial",388.309835370151
+"45","Morgan Creek","STREAM","perennial",870.829899442217
+"46","Hogan Creek","STREAM","perennial",78.7436859604143
+"47","Hogan Creek","CULVERT","perennial",115.880611944491
+"48","Weaver Creek","STREAM","intermittent",2641.89813188659
+"49","Weaver Creek","STREAM","intermittent",1018.85408611109
+"50","Weaver Creek","STREAM","intermittent",121.630811173761
+"51","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3377.99360732696
+"52","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2315.54544303671
+"53","Weaver Creek","STREAM","intermittent",6666.37007044436
+"54","B Everett Jordan Lake","LAKE FLOWLINE","N/A",5130.34955984591
+"55","B Everett Jordan Lake","LAKE FLOWLINE","N/A",954.710899108552
+"56","B Everett Jordan Lake","LAKE FLOWLINE","N/A",995.475134159785
+"57","B Everett Jordan Lake","LAKE FLOWLINE","N/A",413.140169497651
+"58","B Everett Jordan Lake","LAKE FLOWLINE","N/A",387.714363131655
+"59","B Everett Jordan Lake","LAKE FLOWLINE","N/A",240.35573397466
+"60","B Everett Jordan Lake","LAKE FLOWLINE","N/A",132.752963151637
+"61","B Everett Jordan Lake","LAKE FLOWLINE","N/A",225.045700904373
+"62","B Everett Jordan Lake","LAKE FLOWLINE","N/A",625.395089155023
+"63","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1585.32909313227
+"64","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1503.42820394235
+"65","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1824.35995347676
+"66","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1043.15038591575
+"67","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1591.51577437805
+"68","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2478.04560771695
+"69","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1291.94643625824
+"70","B Everett Jordan Lake","LAKE FLOWLINE","N/A",850.90961964631
+"71","Little Beaver Creek","STREAM","perennial",949.044404936849
+"72","Little Beaver Creek","STREAM","perennial",1459.72972938714
+"73","Little Beaver Creek","STREAM","perennial",138.261071708757
+"74","Little Beaver Creek","STREAM","perennial",1256.42894928015
+"75","B Everett Jordan Lake","LAKE FLOWLINE","N/A",810.990019955594
+"76","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1239.49637892536
+"77","B Everett Jordan Lake","LAKE FLOWLINE","N/A",476.185706990236
+"78","Little Beaver Creek","STREAM","perennial",1768.53176982987
+"79","Little Beaver Creek","STREAM","perennial",66.0101866510483
+"80","Little Beaver Creek","STREAM","perennial",327.913260834163
+"81","Little Beaver Creek","STREAM","perennial",1480.8499333411
+"82","Little Beaver Creek","STREAM","perennial",798.224067310681
+"83","Little Beaver Creek","STREAM","perennial",738.382183706624
+"84","B Everett Jordan Lake","LAKE FLOWLINE","N/A",999.497031593838
+"85","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2132.63675601028
+"86","Little Beaver Creek","STREAM","perennial",440.604916253113
+"87","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1927.22771504769
+"88","B Everett Jordan Lake","LAKE FLOWLINE","N/A",897.577766163232
+"89","Little Beaver Creek","STREAM","perennial",2031.78540020603
+"90","B Everett Jordan Lake","LAKE FLOWLINE","N/A",6332.18009388207
+"91","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1026.44049307153
+"92","Little Beaver Creek","STREAM","perennial",653.052372745447
+"93","Little Beaver Creek","STREAM","perennial",382.059164595254
+"94","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1867.53570836309
+"95","Little Beaver Creek","STREAM","perennial",124.0059290178
+"96","Little Beaver Creek","STREAM","perennial",201.494564405061
+"97","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1897.0923859527
+"98","Little Beaver Creek","STREAM","perennial",1548.94551489157
+"99","Little Beaver Creek","STREAM","perennial",251.053386364755
+"100","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1365.81578159378
+"101","B Everett Jordan Lake","LAKE FLOWLINE","N/A",4930.32591418072
+"102","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1169.99681386092
+"103","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1237.51451036131
+"104","Little Beaver Creek","STREAM","intermittent",1293.45154103913
+"105","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1579.75530707268
+"106","Little Beaver Creek","STREAM","intermittent",516.285186061801
+"107","Little Beaver Creek","STREAM","intermittent",149.699887682025
+"108","Little Beaver Creek","STREAM","intermittent",1943.58309605634
+"109","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1785.34798669109
+"110","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3350.77642391684
+"111","B Everett Jordan Lake","LAKE FLOWLINE","N/A",690.308569848083
+"112","B Everett Jordan Lake","LAKE FLOWLINE","N/A",5164.40189171749
+"113","Little Beaver Creek","STREAM","intermittent",4974.56725588879
+"114","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3587.93146520589
+"115","B Everett Jordan Lake","LAKE FLOWLINE","N/A",859.788012934391
+"116","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2478.14053656159
+"117","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2586.99265128318
+"118","B Everett Jordan Lake","LAKE FLOWLINE","N/A",587.789859510095
+"119","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2058.65018548144
+"120","B Everett Jordan Lake","LAKE FLOWLINE","N/A",5579.65284918208
+"121","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1801.98774846532
+"122","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1854.00847150314
+"123","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2374.84450096053
+"124","Reedy Branch","STREAM","intermittent",699.531456776411
+"125","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1205.24738878241
+"126","B Everett Jordan Lake","LAKE FLOWLINE","N/A",918.658911067489
+"127","Herndon Creek","STREAM","perennial",851.010032524795
+"128","Herndon Creek","STREAM","perennial",8357.53654733384
+"129","Panther Creek","STREAM","perennial",625.170900339628
+"130","Cub Creek","STREAM","perennial",552.28825034181
+"131","Kit Creek","STREAM","perennial",1714.88983683198
+"132","Cub Creek","STREAM","perennial",417.480798488077
+"133","Kit Creek","STREAM","perennial",3766.54401698895
+"134","Morgan Creek","STREAM CENTERLINE","perennial",350.703269953422
+"135","Crooked Creek","STREAM","perennial",565.236941272094
+"136","Morgan Creek","STREAM CENTERLINE","perennial",719.533985918745
+"137","University Lake","LAKE FLOWLINE","N/A",587.487470453718
+"138","Neville Creek","STREAM","perennial",1809.69337966885
+"139","New Hope Creek","STREAM CENTERLINE","perennial",620.932723883046
+"140","Morgan Creek","STREAM CENTERLINE","perennial",612.307464836799
+"141","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2756.34288237062
+"142","B Everett Jordan Lake","LAKE FLOWLINE","N/A",562.620056999329
+"143","Beaver Creek","STREAM","perennial",11.6222856283245
+"144","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1587.39772709893
+"145","Beaver Creek","STREAM","perennial",715.164584975511
+"146","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1230.57270095592
+"147","Reedy Branch","STREAM","perennial",1066.34434417584
+"148","Reedy Branch","STREAM","perennial",12.1734614780897
+"149","Beaver Creek","STREAM","perennial",948.301898099138
+"150","Reedy Branch","STREAM","perennial",1250.6288127914
+"151","B Everett Jordan Lake","LAKE FLOWLINE","N/A",721.545712256339
+"152","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1221.14292627295
+"153","Beaver Creek","STREAM","perennial",680.440210430972
+"154","Reedy Branch","STREAM","perennial",722.691143598433
+"155","White Oak Creek","STREAM","perennial",454.807539123917
+"156","Mill Branch","STREAM","perennial",3521.24151068008
+"157","White Oak Creek","STREAM","perennial",2964.59011510138
+"158","White Oak Creek","STREAM","perennial",982.431694147509
+"159","Rocky Ford Branch","STREAM","perennial",1883.21955441374
+"160","Jack Branch","STREAM","perennial",2397.31812405913
+"161","Folkner Branch","STREAM","perennial",1892.80081687201
+"162","B Everett Jordan Lake","LAKE FLOWLINE","N/A",4925.53317732463
+"163","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1040.63605440395
+"164","Folkner Branch","STREAM","intermittent",1118.46953074746
+"165","Folkner Branch","STREAM","perennial",1580.06173509839
+"166","Rocky Ford Branch","STREAM","intermittent",2315.6628153903
+"167","Northeast Creek","STREAM","perennial",3008.1824094928
+"168","Kit Creek","STREAM","intermittent",2156.52480408846
+"169","Kit Creek","STREAM","perennial",1076.8275483767
+"170","Kit Creek","STREAM","perennial",658.997334296327
+"171","Kit Creek","STREAM","perennial",2050.06719432097
+"172","Kit Creek","STREAM","perennial",3192.6788775655
+"173","Northeast Creek","STREAM","perennial",605.643755975409
+"174","B Everett Jordan Lake","LAKE FLOWLINE","N/A",4147.97539382417
+"175","Kit Creek","STREAM","perennial",333.947590572857
+"176","Kit Creek","STREAM","perennial",3385.57938772779
+"177","Stillhouse Bottom","CULVERT","perennial",123.000862358771
+"178","Fan Branch","STREAM","perennial",253.728108349268
+"179","University Lake","LAKE FLOWLINE","N/A",171.879700727943
+"180","Pritchard Branch","STREAM","perennial",226.976919372654
+"181","University Lake","LAKE FLOWLINE","N/A",343.963673024893
+"182","Neville Creek","STREAM","intermittent",2208.35719368535
+"183","Pritchard Branch","STREAM","perennial",116.305866696788
+"184","B Everett Jordan Lake","LAKE FLOWLINE","N/A",4673.87125037375
+"185","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2210.86664112168
+"186","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2251.6862302897
+"187","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2602.74833343533
+"188","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1235.25511233019
+"189","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1065.40456116722
+"190","B Everett Jordan Lake","LAKE FLOWLINE","N/A",229.654068283746
+"191","B Everett Jordan Lake","LAKE FLOWLINE","N/A",317.823132314082
+"192","B Everett Jordan Lake","LAKE FLOWLINE","N/A",533.396946704763
+"193","B Everett Jordan Lake","LAKE FLOWLINE","N/A",441.039647637966
+"194","B Everett Jordan Lake","LAKE FLOWLINE","N/A",659.489407792136
+"195","B Everett Jordan Lake","LAKE FLOWLINE","N/A",282.869747984204
+"196","B Everett Jordan Lake","LAKE FLOWLINE","N/A",605.777487750685
+"197","B Everett Jordan Lake","LAKE FLOWLINE","N/A",940.732378171771
+"198","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2293.63945128707
+"199","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1039.26940264365
+"200","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2109.79538443458
+"201","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1508.11222038851
+"202","B Everett Jordan Lake","LAKE FLOWLINE","N/A",236.986034225049
+"203","B Everett Jordan Lake","LAKE FLOWLINE","N/A",386.3129834926
+"204","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1442.69393010494
+"205","B Everett Jordan Lake","LAKE FLOWLINE","N/A",278.691418945435
+"206","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1798.54121907069
+"207","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2197.06300949164
+"208","B Everett Jordan Lake","LAKE FLOWLINE","N/A",780.152833211291
+"209","B Everett Jordan Lake","LAKE FLOWLINE","N/A",492.281884253616
+"210","B Everett Jordan Lake","LAKE FLOWLINE","N/A",303.213896515916
+"211","B Everett Jordan Lake","LAKE FLOWLINE","N/A",587.798531047297
+"212","B Everett Jordan Lake","LAKE FLOWLINE","N/A",623.472871465405
+"213","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1944.2812257619
+"214","B Everett Jordan Lake","LAKE FLOWLINE","N/A",791.612961171888
+"215","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1470.31091331817
+"216","B Everett Jordan Lake","LAKE FLOWLINE","N/A",274.488163165895
+"217","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1049.48890213115
+"218","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1188.62391283574
+"219","B Everett Jordan Lake","LAKE FLOWLINE","N/A",294.975944640741
+"220","B Everett Jordan Lake","LAKE FLOWLINE","N/A",440.596971007589
+"221","Beaver Creek","STREAM","perennial",773.081499709558
+"222","Beaver Creek","STREAM","perennial",381.919453208873
+"223","Beaver Creek","STREAM","perennial",240.394645067618
+"224","Beaver Creek","STREAM","perennial",120.86243913325
+"225","Beaver Creek","STREAM","perennial",936.255248357918
+"226","Beaver Creek","STREAM","perennial",432.652555299924
+"227","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2774.41745654853
+"228","B Everett Jordan Lake","LAKE FLOWLINE","N/A",148.541169977529
+"229","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1754.12834062812
+"230","B Everett Jordan Lake","LAKE FLOWLINE","N/A",753.651108837114
+"231","B Everett Jordan Lake","LAKE FLOWLINE","N/A",249.966380747337
+"232","Beaver Creek","STREAM","perennial",331.392222159733
+"233","B Everett Jordan Lake","LAKE FLOWLINE","N/A",197.526984628526
+"234","B Everett Jordan Lake","LAKE FLOWLINE","N/A",79.4634684559017
+"235","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2673.84630668543
+"236","B Everett Jordan Lake","LAKE FLOWLINE","N/A",249.001909728082
+"237","B Everett Jordan Lake","LAKE FLOWLINE","N/A",6158.15474002317
+"238","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1122.5197919551
+"239","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1673.53945657448
+"240","B Everett Jordan Lake","LAKE FLOWLINE","N/A",929.817318264654
+"241","B Everett Jordan Lake","LAKE FLOWLINE","N/A",42.5002602560322
+"242","B Everett Jordan Lake","LAKE FLOWLINE","N/A",58.3512691230402
+"243","Beaver Creek","STREAM","perennial",1614.3487545628
+"244","Beaver Creek","STREAM","perennial",77.3673203369116
+"245","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1780.533720761
+"246","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1415.44432650771
+"247","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1306.88193371248
+"248","B Everett Jordan Lake","LAKE FLOWLINE","N/A",711.390458493567
+"249","Beaver Creek","STREAM","perennial",276.305792737146
+"250","B Everett Jordan Lake","LAKE FLOWLINE","N/A",873.467304761442
+"251","Beaver Creek","STREAM","perennial",108.41976530746
+"252","B Everett Jordan Lake","LAKE FLOWLINE","N/A",4247.60649891114
+"253","Beaver Creek","STREAM","perennial",547.422772643019
+"254","Beaver Creek","STREAM","perennial",54.2800294641714
+"255","Beaver Creek","STREAM","perennial",652.180150752313
+"256","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1005.5682247187
+"257","Beaver Creek","STREAM","perennial",751.517831645397
+"258","Beaver Creek","STREAM","perennial",934.02797114139
+"259","Beaver Creek","STREAM","perennial",903.414019257061
+"260","Beaver Creek","STREAM","perennial",1276.00393039836
+"261","Beaver Creek","STREAM","perennial",1069.78958789796
+"262","Beaver Creek","STREAM","perennial",483.086246272397
+"263","Beaver Creek","STREAM","perennial",200.023395125765
+"264","Beaver Creek","STREAM","perennial",120.853523845543
+"265","Beaver Creek","STREAM","perennial",224.268590857157
+"266","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1451.66113086554
+"267","Beaver Creek","STREAM","perennial",215.802377428985
+"268","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3095.00188175639
+"269","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1186.7498064625
+"270","Beaver Creek","STREAM","perennial",557.168291291144
+"271","Beaver Creek","STREAM","perennial",481.338969762803
+"272","Beaver Creek","STREAM","perennial",685.360991032947
+"273","Beaver Creek","STREAM","perennial",616.706974144617
+"274","Beaver Creek","STREAM","perennial",892.288938242027
+"275","Beaver Creek","STREAM","perennial",1898.42392204377
+"276","Beaver Creek","STREAM","perennial",1637.04445171571
+"277","Beaver Creek","STREAM","perennial",1134.34950535946
+"278","Beaver Creek","STREAM","perennial",245.117804270991
+"279","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3343.3030857915
+"280","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2579.60413864475
+"281","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1754.48128074223
+"282","B Everett Jordan Lake","LAKE FLOWLINE","N/A",346.029945375259
+"283","Beaver Creek","STREAM","perennial",1121.55095595326
+"284","Reedy Branch","STREAM","perennial",1358.13395091177
+"285","Beaver Creek","STREAM","perennial",289.838009588449
+"286","B Everett Jordan Lake","LAKE FLOWLINE","N/A",444.123792481126
+"287","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1229.90188110226
+"288","B Everett Jordan Lake","LAKE FLOWLINE","N/A",181.10890720586
+"289","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2492.20565290344
+"290","B Everett Jordan Lake","LAKE FLOWLINE","N/A",876.457412761876
+"291","B Everett Jordan Lake","LAKE FLOWLINE","N/A",4174.90631711902
+"292","Beaver Creek","STREAM","perennial",1486.94030970444
+"293","Reedy Branch","STREAM","perennial",1520.45085410158
+"294","Beaver Creek","STREAM","perennial",832.574250335993
+"295","Reedy Branch","STREAM","perennial",664.087827747408
+"296","Reedy Branch","STREAM","perennial",142.877764286408
+"297","Reedy Branch","STREAM","perennial",162.908443157562
+"298","Reedy Branch","STREAM","perennial",843.995936432515
+"299","Beaver Creek","STREAM","perennial",891.125768250501
+"300","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1547.08047884049
+"301","Reedy Branch","STREAM","perennial",856.623880301914
+"302","Beaver Creek","STREAM","perennial",711.556093775492
+"303","Reedy Branch","STREAM","perennial",558.103695990287
+"304","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1609.6499219549
+"305","Reedy Branch","STREAM","perennial",277.74396350306
+"306","B Everett Jordan Lake","LAKE FLOWLINE","N/A",216.802319857045
+"307","Reedy Branch","STREAM","perennial",145.923411447064
+"308","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1749.11644883574
+"309","B Everett Jordan Lake","LAKE FLOWLINE","N/A",4152.61815196225
+"310","Windfall Branch","STREAM","intermittent",1402.29656203273
+"311","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1713.52698285571
+"312","Reedy Branch","STREAM","perennial",1541.90475504053
+"313","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1968.75661701428
+"314","Beaver Creek","STREAM","perennial",2351.00745953419
+"315","B Everett Jordan Lake","LAKE FLOWLINE","N/A",4391.67233174133
+"316","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3497.84255822578
+"317","Windfall Branch","STREAM","intermittent",2398.68641189265
+"318","Windfall Branch","STREAM","perennial",2289.58484048067
+"319","Reedy Branch","STREAM","perennial",1476.87856800775
+"320","Beaver Creek","STREAM","perennial",1028.67456299114
+"321","B Everett Jordan Lake","LAKE FLOWLINE","N/A",543.376802979792
+"322","Windfall Branch","STREAM","intermittent",1096.51706253133
+"323","Windfall Branch","STREAM","perennial",2249.28076880431
+"324","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3306.74284474164
+"325","Reedy Branch","STREAM","perennial",243.145497654284
+"326","B Everett Jordan Lake","LAKE FLOWLINE","N/A",142.567140317439
+"327","B Everett Jordan Lake","LAKE FLOWLINE","N/A",165.265219212369
+"328","Reedy Branch","STREAM","perennial",305.49772572837
+"329","B Everett Jordan Lake","LAKE FLOWLINE","N/A",492.14895008727
+"330","B Everett Jordan Lake","LAKE FLOWLINE","N/A",879.759909249879
+"331","Beaver Creek","STREAM","perennial",1235.78256671733
+"332","Reedy Branch","STREAM","perennial",1010.34197000158
+"333","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3113.59904151909
+"334","Reedy Branch","STREAM","perennial",863.122467969132
+"335","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1166.50520863726
+"336","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1147.69099101792
+"337","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2948.66919829891
+"338","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2445.01497816731
+"339","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2138.53285880892
+"340","B Everett Jordan Lake","LAKE FLOWLINE","N/A",5321.37852734702
+"341","Reedy Branch","STREAM","perennial",2146.04361692015
+"342","B Everett Jordan Lake","LAKE FLOWLINE","N/A",4103.53489429985
+"343","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1675.15588434185
+"344","Beaver Creek","STREAM","perennial",1961.12403516492
+"345","Beaver Creek","STREAM","intermittent",262.336399185199
+"346","Beaver Creek","STREAM","perennial",943.650910240628
+"347","Beaver Creek","STREAM","perennial",2040.48911193583
+"348","B Everett Jordan Lake","LAKE FLOWLINE","N/A",972.839001210713
+"349","B Everett Jordan Lake","LAKE FLOWLINE","N/A",197.518811114863
+"350","B Everett Jordan Lake","LAKE FLOWLINE","N/A",181.199448091966
+"351","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1375.29766520711
+"352","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2478.9625367359
+"353","B Everett Jordan Lake","LAKE FLOWLINE","N/A",719.008414955977
+"354","Beaver Creek","STREAM","intermittent",1175.87470681265
+"355","B Everett Jordan Lake","LAKE FLOWLINE","N/A",336.598087231784
+"356","B Everett Jordan Lake","LAKE FLOWLINE","N/A",4507.60639736452
+"357","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2127.55868161685
+"358","White Oak Creek","STREAM","perennial",640.287469407
+"359","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2232.03790102473
+"360","White Oak Creek","STREAM","perennial",3074.25131322261
+"361","White Oak Creek","STREAM","perennial",218.984165600038
+"362","White Oak Creek","STREAM","perennial",770.640283408022
+"363","White Oak Creek","STREAM","perennial",156.802527671741
+"364","White Oak Creek","STREAM","perennial",3178.45265339169
+"365","White Oak Creek","STREAM","perennial",436.031150929635
+"366","White Oak Creek","STREAM","perennial",1283.89836330195
+"367","Beaver Creek","STREAM","intermittent",567.987056788827
+"368","Beaver Creek","STREAM","intermittent",1607.62384614693
+"369","White Oak Creek","STREAM","perennial",579.099054911972
+"370","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2417.95775811886
+"371","White Oak Creek","STREAM","perennial",48.105210180638
+"372","Beaver Creek","STREAM","intermittent",425.862625982183
+"373","Beaver Creek","STREAM","intermittent",472.376299774157
+"374","White Oak Creek","STREAM","perennial",2376.6882831015
+"375","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1945.32770344278
+"376","B Everett Jordan Lake","LAKE FLOWLINE","N/A",808.231927044905
+"377","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1664.38998179255
+"378","White Oak Creek","STREAM","perennial",123.054614510467
+"379","White Oak Creek","STREAM","perennial",1247.05356980838
+"380","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3598.40422370373
+"381","White Oak Creek","STREAM","perennial",238.879290401887
+"382","White Oak Creek","STREAM","intermittent",602.615525548081
+"383","White Oak Creek","STREAM","intermittent",125.801444385346
+"384","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2478.77748094748
+"385","Rocky Ford Branch","STREAM","perennial",1986.23522809865
+"386","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2863.74903608725
+"387","B Everett Jordan Lake","LAKE FLOWLINE","N/A",283.423136687773
+"388","White Oak Creek","STREAM","intermittent",100.083932414364
+"389","Parkers Creek","STREAM","perennial",10950.9890274839
+"390","White Oak Creek","STREAM","perennial",2318.97104207715
+"391","B Everett Jordan Lake","LAKE FLOWLINE","N/A",850.9197124995
+"392","Mill Branch","STREAM","perennial",251.764643175929
+"393","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2846.05153158831
+"394","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3151.05099848584
+"395","Parkers Creek","STREAM","intermittent",6015.57904628247
+"396","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1195.57391992775
+"397","White Oak Creek","STREAM","perennial",2321.61805944175
+"398","White Oak Creek","STREAM","intermittent",2092.55476823674
+"399","Jack Branch","STREAM","intermittent",641.861910713643
+"400","B Everett Jordan Lake","LAKE FLOWLINE","N/A",390.739743960726
+"401","B Everett Jordan Lake","LAKE FLOWLINE","N/A",689.746684633642
+"402","B Everett Jordan Lake","LAKE FLOWLINE","N/A",292.153477091302
+"403","Clark Branch","STREAM","intermittent",3231.36731695802
+"404","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1574.77375334102
+"405","B Everett Jordan Lake","LAKE FLOWLINE","N/A",4971.53639552209
+"406","Jack Branch","STREAM","intermittent",388.803140198308
+"407","Clark Branch","STREAM","intermittent",191.511519014411
+"408","Clark Branch","STREAM","intermittent",1484.17271528361
+"409","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1344.58562815327
+"410","White Oak Creek","STREAM","intermittent",907.034627958314
+"411","Mill Branch","STREAM","perennial",113.028990275279
+"412","Clark Branch","STREAM","perennial",454.003383690692
+"413","White Oak Creek","STREAM","intermittent",478.681373929732
+"414","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2287.25021329706
+"415","B Everett Jordan Lake","LAKE FLOWLINE","N/A",7154.38733213608
+"416","Clark Branch","STREAM","perennial",738.087560833384
+"417","Clark Branch","STREAM","perennial",276.822467598799
+"418","Rocky Ford Branch","STREAM","perennial",4125.38990597904
+"419","Clark Branch","STREAM","perennial",867.08961079063
+"420","White Oak Creek","STREAM","perennial",2398.08701494515
+"421","Clark Branch","STREAM","perennial",2425.6527842627
+"422","White Oak Creek","STREAM","intermittent",696.421608197692
+"423","White Oak Creek","STREAM","intermittent",216.088179814687
+"424","Jack Branch","STREAM","intermittent",1856.95689627104
+"425","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1205.98874643751
+"426","Rocky Ford Branch","STREAM","perennial",1168.81712335816
+"427","Jack Branch","STREAM","intermittent",756.37002441056
+"428","B Everett Jordan Lake","LAKE FLOWLINE","N/A",497.736969759524
+"429","Rocky Ford Branch","STREAM","perennial",231.152240351932
+"430","Jack Branch","STREAM","intermittent",1114.64247782202
+"431","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2377.23332173918
+"432","B Everett Jordan Lake","LAKE FLOWLINE","N/A",774.823547439849
+"433","Jack Branch","STREAM","perennial",870.542233816681
+"434","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1212.89490019953
+"435","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3544.48665813633
+"436","B Everett Jordan Lake","LAKE FLOWLINE","N/A",262.183197626975
+"437","White Oak Creek","STREAM","perennial",1839.5615358649
+"438","White Oak Creek","STREAM","perennial",2484.54681115244
+"439","White Oak Creek","STREAM","perennial",883.624581717266
+"440","Rocky Ford Branch","STREAM","perennial",357.385748135086
+"441","White Oak Creek","STREAM","perennial",1678.67461719846
+"442","White Oak Creek","STREAM","perennial",1484.09167095422
+"443","White Oak Creek","STREAM","perennial",616.577064967154
+"444","White Oak Creek","STREAM","perennial",1023.78878187701
+"445","White Oak Creek","STREAM","perennial",495.933173357667
+"446","White Oak Creek","STREAM","perennial",2092.06905851617
+"447","Mill Branch","STREAM","intermittent",1939.39406286639
+"448","White Oak Creek","STREAM","perennial",689.63977564269
+"449","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3597.4606431057
+"450","B Everett Jordan Lake","LAKE FLOWLINE","N/A",306.692808594524
+"451","Mill Branch","STREAM","intermittent",221.619991914008
+"452","Bachelor Branch","STREAM","perennial",1505.09252003918
+"453","B Everett Jordan Lake","LAKE FLOWLINE","N/A",186.120232087882
+"454","B Everett Jordan Lake","LAKE FLOWLINE","N/A",138.132687016388
+"455","B Everett Jordan Lake","LAKE FLOWLINE","N/A",293.401801827147
+"456","Mill Branch","STREAM","intermittent",2588.43474126041
+"457","Mill Branch","STREAM","intermittent",116.423202944321
+"458","Rocky Ford Branch","STREAM","perennial",1451.01963139348
+"459","White Oak Creek","STREAM","perennial",1851.28082019037
+"460","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3108.4170011801
+"461","White Oak Creek","STREAM","perennial",3404.0331185445
+"462","White Oak Creek","STREAM","perennial",806.753492119595
+"463","Bachelor Branch","STREAM","perennial",1284.9947023001
+"464","Rocky Ford Branch","STREAM","perennial",924.524991092216
+"465","Bachelor Branch","STREAM","perennial",259.36025966214
+"466","Bachelor Branch","STREAM","perennial",109.283955411495
+"467","B Everett Jordan Lake","LAKE FLOWLINE","N/A",88.223829516775
+"468","B Everett Jordan Lake","LAKE FLOWLINE","N/A",236.317662634312
+"469","Folkner Branch","STREAM","intermittent",170.95535496684
+"470","Rocky Ford Branch","STREAM","perennial",864.396826121722
+"471","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1127.87019470722
+"472","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2527.6463740653
+"473","Rocky Ford Branch","STREAM","intermittent",590.855065961074
+"474","Folkner Branch","STREAM","intermittent",553.959893184475
+"475","Bachelor Branch","STREAM","perennial",1579.77869122211
+"476","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2824.5203916293
+"477","Bachelor Branch","STREAM","perennial",581.002946314583
+"478","Folkner Branch","STREAM","perennial",3142.7171295501
+"479","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2667.88993208213
+"480","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3575.25774851285
+"481","Folkner Branch","STREAM","intermittent",3665.86387145707
+"482","Bachelor Branch","STREAM","intermittent",4418.03768359871
+"483","Bachelor Branch","STREAM","intermittent",886.275780233247
+"484","Bachelor Branch","STREAM","perennial",2279.66391347061
+"485","Bachelor Branch","STREAM","perennial",210.20129373553
+"486","Bachelor Branch","STREAM","intermittent",2585.23863817297
+"487","Bachelor Branch","STREAM","intermittent",2052.07614252957
+"488","Bachelor Branch","STREAM","intermittent",914.141223061854
+"489","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1498.45493309695
+"490","Lick Branch","STREAM","intermittent",1368.99967296476
+"491","Bush Creek","STREAM","perennial",328.33900922145
+"492","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1662.32725952957
+"493","Lick Branch","STREAM","intermittent",235.896467535951
+"494","Bush Creek","STREAM","intermittent",3904.03338456238
+"495","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2243.03264584401
+"496","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3618.966768202
+"497","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3728.35085179509
+"498","Lick Branch","STREAM","intermittent",3456.70105288133
+"499","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2953.65115420041
+"500","Lick Branch","STREAM","perennial",2549.84429237875
+"501","Lick Branch","STREAM","intermittent",1461.10511513761
+"502","B Everett Jordan Lake","LAKE FLOWLINE","N/A",107.934925522254
+"503","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1484.55169378456
+"504","B Everett Jordan Lake","LAKE FLOWLINE","N/A",275.573553193629
+"505","Lick Branch","STREAM","perennial",934.460359200055
+"506","Bush Creek","STREAM","perennial",5015.12149080389
+"507","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1236.57565195258
+"508","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3930.63704224898
+"509","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1203.67094803195
+"510","Bush Creek","STREAM","perennial",1265.80092343999
+"511","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1064.67992602368
+"512","B Everett Jordan Lake","LAKE FLOWLINE","N/A",900.058366768616
+"513","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2432.51419693958
+"514","Indian Creek","STREAM","intermittent",4231.67159291477
+"515","Bush Creek","STREAM","perennial",2263.77396237277
+"516","Bush Creek","STREAM","perennial",56.3755397013714
+"517","B Everett Jordan Lake","LAKE FLOWLINE","N/A",4010.21192241786
+"518","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2653.92329566288
+"519","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1942.58048503503
+"520","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3519.09297133961
+"521","Bush Creek","STREAM","perennial",2242.36511744824
+"522","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2051.47943666102
+"523","Bush Creek","STREAM","perennial",1075.26256651348
+"524","Indian Creek","STREAM","intermittent",2169.93383420529
+"525","Bush Creek","STREAM","perennial",527.915973631546
+"526","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1951.36306126594
+"527","Indian Creek","STREAM","intermittent",417.59468829472
+"528","Panther Creek","STREAM","intermittent",323.625784615386
+"529","Bush Creek","STREAM","perennial",1087.49877724051
+"530","Panther Creek","STREAM","intermittent",547.292165820486
+"531","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1327.85796487996
+"532","Panther Creek","STREAM","intermittent",2955.33659199436
+"533","B Everett Jordan Lake","LAKE FLOWLINE","N/A",955.890929572904
+"534","Panther Creek","STREAM","intermittent",782.277023669381
+"535","Bush Creek","STREAM","perennial",592.031638232268
+"536","B Everett Jordan Lake","LAKE FLOWLINE","N/A",4543.23670881737
+"537","Indian Creek","STREAM","perennial",386.829413527431
+"538","Indian Creek","STREAM","perennial",5810.03909322147
+"539","Panther Creek","STREAM","intermittent",756.306159132227
+"540","Panther Creek","STREAM","intermittent",568.734055630409
+"541","Herndon Creek","STREAM","perennial",934.322503038743
+"542","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2618.81556737945
+"543","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1852.02046575551
+"544","B Everett Jordan Lake","LAKE FLOWLINE","N/A",403.813022197886
+"545","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2029.4481887904
+"546","Panther Creek","STREAM","intermittent",1353.28588918293
+"547","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1051.9927685224
+"548","B Everett Jordan Lake","LAKE FLOWLINE","N/A",5110.18343745748
+"549","Herndon Creek","STREAM","perennial",608.987022383996
+"550","Panther Creek","STREAM","perennial",2364.71364062774
+"551","Panther Creek","STREAM","perennial",122.213995839319
+"552","Indian Creek","STREAM","perennial",2271.76206400003
+"553","Panther Creek","STREAM","intermittent",2288.68571755206
+"554","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2069.67266183928
+"555","Panther Creek","STREAM","perennial",1514.13842636212
+"556","Indian Creek","STREAM","perennial",3731.94802577334
+"557","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1254.82187283262
+"558","B Everett Jordan Lake","LAKE FLOWLINE","N/A",227.981372565332
+"559","Indian Creek","STREAM","perennial",1973.38537500961
+"560","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2120.04406512296
+"561","B Everett Jordan Lake","LAKE FLOWLINE","N/A",666.864450676529
+"562","Panther Creek","STREAM","perennial",1643.418335196
+"563","Overcup Creek","STREAM","perennial",258.32266152567
+"564","Overcup Creek","STREAM","perennial",1253.91999589464
+"565","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2645.976192241
+"566","B Everett Jordan Lake","LAKE FLOWLINE","N/A",42.4982207364496
+"567","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3916.60257055026
+"568","Morris Branch","STREAM","intermittent",53.2884807603937
+"569","Morris Branch","STREAM","intermittent",2576.29061055133
+"570","Morris Branch","STREAM","perennial",613.57638159182
+"571","Morris Branch","STREAM","intermittent",5666.49864082449
+"572","Morris Branch","STREAM","perennial",861.928850071418
+"573","Morris Branch","STREAM","intermittent",789.873559726839
+"574","B Everett Jordan Lake","LAKE FLOWLINE","N/A",4192.05908954276
+"575","Herndon Creek","STREAM","intermittent",4867.80394199161
+"576","Morris Branch","STREAM","intermittent",36.3037357907954
+"577","Panther Creek","STREAM","perennial",2830.4564679968
+"578","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1127.74717195455
+"579","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1439.2713643028
+"580","Northeast Creek","STREAM","intermittent",140.08251856702
+"581","B Everett Jordan Lake","LAKE FLOWLINE","N/A",3771.92920244346
+"582","Northeast Creek","STREAM","intermittent",111.413719291655
+"583","Panther Creek","STREAM","perennial",1350.38254524268
+"584","Panther Creek","STREAM","perennial",147.000655704253
+"585","Morris Branch","STREAM","perennial",3066.47490610381
+"586","Panther Creek","STREAM","perennial",421.532959613946
+"587","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2364.07265871075
+"588","Nancy Branch","STREAM","perennial",635.10211409668
+"589","Morris Branch","STREAM","perennial",3309.54021319348
+"590","Northeast Creek","STREAM","perennial",36.1741231862803
+"591","Northeast Creek","STREAM","perennial",1335.72072047578
+"592","Northeast Creek","STREAM","perennial",75.0038395632152
+"593","Cub Creek","STREAM","perennial",945.413941422473
+"594","Northeast Creek","STREAM","intermittent",3816.75884174959
+"595","B Everett Jordan Lake","LAKE FLOWLINE","N/A",5584.39264637662
+"596","Overcup Creek","STREAM","perennial",2571.16597427034
+"597","Jones Branch","STREAM","intermittent",4279.01842837709
+"598","Nancy Branch","STREAM","perennial",1284.68704218567
+"599","Cub Creek","STREAM","perennial",773.793348567263
+"600","Cub Creek","STREAM","perennial",792.804675032991
+"601","Panther Creek","STREAM","perennial",3287.18057409579
+"602","Northeast Creek","STREAM","perennial",3047.88323495447
+"603","Nancy Branch","STREAM","perennial",2999.60923861547
+"604","Nancy Branch","STREAM","intermittent",2480.11109191631
+"605","Nancy Branch","STREAM","perennial",725.618099462293
+"606","Nancy Branch","STREAM","intermittent",3729.21505187846
+"607","Nancy Branch","STREAM","perennial",1047.66648751095
+"608","Northeast Creek","STREAM","perennial",3333.27721550224
+"609","Nancy Branch","STREAM","perennial",4081.99722119786
+"610","Cub Creek","STREAM","perennial",1359.55401172835
+"611","Panther Creek","STREAM","perennial",3714.94608691129
+"612","Northeast Creek","STREAM","perennial",959.439084733
+"613","Northeast Creek","STREAM","perennial",90.5400644988323
+"614","Overcup Creek","STREAM","perennial",4074.02718306834
+"615","Overcup Creek","STREAM","intermittent",1684.75150289428
+"616","Overcup Creek","STREAM","intermittent",2749.19264164207
+"617","B Everett Jordan Lake","LAKE FLOWLINE","N/A",5880.49661466067
+"618","Cub Creek","STREAM","perennial",5008.64776069703
+"619","B Everett Jordan Lake","LAKE FLOWLINE","N/A",5876.54693326738
+"620","Cub Creek","STREAM","intermittent",4265.73041188189
+"621","Northeast Creek","STREAM","perennial",3376.49562780222
+"622","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1305.94237012275
+"623","Cub Creek","LAKE FLOWLINE","N/A",330.370152796924
+"624","Northeast Creek","STREAM","perennial",773.529273081601
+"625","B Everett Jordan Lake","LAKE FLOWLINE","N/A",617.396319670456
+"626","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1297.49005035434
+"627","Cub Creek","STREAM","perennial",2955.72345998455
+"628","Cub Creek","STREAM","perennial",7948.93778461823
+"629","B Everett Jordan Lake","LAKE FLOWLINE","N/A",7610.3128269756
+"630","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2332.02318488823
+"631","B Everett Jordan Lake","LAKE FLOWLINE","N/A",874.861466374874
+"632","B Everett Jordan Lake","LAKE FLOWLINE","N/A",20.0576291890883
+"633","Kit Creek","STREAM","intermittent",4274.99850283451
+"634","B Everett Jordan Lake","LAKE FLOWLINE","N/A",928.960994868526
+"635","West Branch Price Creek","STREAM","intermittent",419.540521408149
+"636","B Everett Jordan Lake","LAKE FLOWLINE","N/A",745.808496870318
+"637","Cub Creek","STREAM","perennial",3289.45788234842
+"638","Price Creek","STREAM","intermittent",1915.0114841486
+"639","Kit Creek","STREAM","perennial",924.697872397332
+"640","East Branch Price Creek","STREAM","intermittent",4199.33530643956
+"641","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2316.70245236164
+"642","Kit Creek","STREAM","perennial",1268.49677659791
+"643","Kit Creek","STREAM","perennial",795.799462676623
+"644","Northeast Creek","STREAM","perennial",2608.45007006518
+"645","Kit Creek","STREAM","perennial",2827.18174737607
+"646","Cub Creek","STREAM","perennial",3925.86109928014
+"647","Long Branch","STREAM","perennial",1599.44384535455
+"648","Wilson Creek","STREAM","intermittent",2351.46169494384
+"649","Cub Creek","STREAM","perennial",1893.72611450854
+"650","Crooked Creek","STREAM","perennial",4866.87151477078
+"651","Cub Creek","STREAM","perennial",486.942256120711
+"652","Kit Creek","STREAM","perennial",610.38671384443
+"653","Cub Creek","STREAM","perennial",71.317021215188
+"654","Cub Creek","STREAM","perennial",1331.8060181363
+"655","Wilson Creek","STREAM","intermittent",1418.18595114186
+"656","Northeast Creek","STREAM","perennial",866.698818212045
+"657","Northeast Creek","STREAM","perennial",563.817372781006
+"658","Wilson Creek","STREAM","perennial",626.067560819393
+"659","West Branch Price Creek","STREAM","intermittent",3510.07603525
+"660","Cub Creek","STREAM","perennial",1422.02310718869
+"661","Wilson Creek","STREAM","perennial",406.049685039497
+"662","Wilson Creek","STREAM","perennial",69.6515918772126
+"663","Wilson Creek","CULVERT","perennial",43.0399497251131
+"664","Price Creek","STREAM","perennial",3274.37563068615
+"665","Long Branch","STREAM","perennial",1674.10388484913
+"666","Northeast Creek","STREAM","perennial",479.874680336539
+"667","Northeast Creek","STREAM","perennial",50.2207236246924
+"668","Kit Creek","STREAM","perennial",207.225537726894
+"669","Northeast Creek","STREAM","perennial",712.679148975973
+"670","Price Creek","STREAM","perennial",673.885834200614
+"671","Price Creek","STREAM","perennial",51.6474036681224
+"672","Cub Creek","STREAM","perennial",1694.17074412658
+"673","Kit Creek","STREAM","perennial",4607.23369661548
+"674","Northeast Creek","STREAM","perennial",2296.60852106099
+"675","Cub Creek","STREAM","perennial",794.249882047757
+"676","Cub Creek","STREAM","perennial",2319.91318682371
+"677","B Everett Jordan Lake","LAKE FLOWLINE","N/A",984.95038812124
+"678","B Everett Jordan Lake","LAKE FLOWLINE","N/A",5422.9041058393
+"679","Wilson Creek","STREAM","perennial",971.716085499533
+"680","Big Branch","STREAM","perennial",1567.53484093349
+"681","Crooked Creek","STREAM","perennial",2946.73164158065
+"682","Price Creek","STREAM","perennial",651.678919868393
+"683","B Everett Jordan Lake","LAKE FLOWLINE","N/A",393.842715522351
+"684","Cumbo Branch","STREAM","intermittent",2177.25617662723
+"685","Northeast Creek","STREAM","perennial",1790.11563665821
+"686","Obeys Creek","STREAM","perennial",1512.48905180892
+"687","Price Creek","STREAM","perennial",491.731891128594
+"688","Wilson Creek","STREAM","perennial",157.951150111982
+"689","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1329.69890505404
+"690","Long Branch","STREAM","perennial",1848.74209367967
+"691","Price Creek","STREAM","perennial",275.058095807798
+"692","Price Creek","STREAM","perennial",211.080720387854
+"693","Wilson Creek","STREAM","perennial",580.306298771913
+"694","Fan Branch","STREAM","perennial",301.184901200366
+"695","B Everett Jordan Lake","LAKE FLOWLINE","N/A",951.974096944318
+"696","Wilson Creek","STREAM","perennial",288.466373565972
+"697","Price Creek","STREAM","perennial",413.730174277844
+"698","Price Creek","STREAM","perennial",31.8809058781804
+"699","Price Creek","STREAM","perennial",31.8809058781804
+"700","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1514.43700133785
+"701","Wilson Creek","STREAM","perennial",306.230838468091
+"702","Fan Branch","STREAM","perennial",266.469926864988
+"703","Crooked Creek","STREAM","perennial",2274.57449786485
+"704","Northeast Creek","STREAM","perennial",2004.10429381735
+"705","Northeast Creek","STREAM","intermittent",49.2482339046548
+"706","Wilson Creek","STREAM CENTERLINE","perennial",525.451115709484
+"707","Northeast Creek","STREAM","perennial",746.064810990968
+"708","Northeast Creek","STREAM","perennial",140.968491894249
+"709","Northeast Creek","STREAM","perennial",436.173098836207
+"710","New Hope Creek","STREAM","perennial",1103.41141384012
+"711","B Everett Jordan Lake","LAKE FLOWLINE","N/A",834.61225361248
+"712","B Everett Jordan Lake","LAKE FLOWLINE","N/A",41.4572328369675
+"713","Wilson Creek","STREAM","perennial",28.1888574403883
+"714","B Everett Jordan Lake","LAKE FLOWLINE","N/A",256.772873099924
+"715","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1250.09921190393
+"716","Big Branch","STREAM","intermittent",726.258084157425
+"717","Price Creek","STREAM","perennial",1597.76007254657
+"718","Pritchard's Mill Creek","STREAM","perennial",70.1490623651381
+"719","Cumbo Branch","STREAM","intermittent",2661.29936960808
+"720","Big Branch","STREAM","intermittent",2480.28825949648
+"721","Fan Branch","STREAM","perennial",852.191365418435
+"722","Wilson Creek","STREAM CENTERLINE","perennial",676.558071347988
+"723","Fan Branch","STREAM","perennial",290.171811488751
+"724","Big Branch","STREAM","intermittent",582.793276850583
+"725","Big Branch","STREAM","intermittent",548.752233808095
+"726","Pritchard's Mill Creek","STREAM","intermittent",1484.44176703741
+"727","B Everett Jordan Lake","LAKE FLOWLINE","N/A",850.779081695128
+"728","B Everett Jordan Lake","LAKE FLOWLINE","N/A",61.2837300854605
+"729","Wilson Creek","STREAM CENTERLINE","perennial",207.013637031577
+"730","Pritchard's Mill Creek","STREAM","intermittent",549.557285654942
+"731","Pritchard's Mill Creek","STREAM","perennial",2602.29803339478
+"732","B Everett Jordan Lake","LAKE FLOWLINE","N/A",165.716851839452
+"733","Fan Branch","STREAM","perennial",563.098957174986
+"734","Pritchard's Mill Creek","STREAM","perennial",1141.2378156802
+"735","Pritchard's Mill Creek","STREAM","perennial",122.05324962707
+"736","New Hope Creek","STREAM","perennial",1852.97939643617
+"737","Price Creek","STREAM","perennial",875.497188037532
+"738","Northeast Creek","STREAM","perennial",2350.77534651758
+"739","Wilson Creek","STREAM CENTERLINE","perennial",469.34084737965
+"740","Northeast Creek","STREAM","perennial",870.687179686312
+"741","Buck Branch","STREAM","perennial",371.747590911431
+"742","Buck Branch","STREAM","perennial",3629.65968249065
+"743","B Everett Jordan Lake","LAKE FLOWLINE","N/A",1078.8265785256
+"744","Buck Branch","STREAM","perennial",575.873946908739
+"745","Buck Branch","STREAM","perennial",421.119412451576
+"746","Fan Branch","STREAM","perennial",573.632866154084
+"747","Price Creek","STREAM","perennial",357.818794250932
+"748","Price Creek","STREAM","perennial",63.6787601043399
+"749","Pritchard's Mill Creek","STREAM","intermittent",2483.17374528469
+"750","Northeast Creek","STREAM","perennial",530.947084474169
+"751","Price Creek","STREAM","perennial",241.88526268774
+"752","Buck Branch","STREAM","perennial",458.375515428682
+"753","Wilson Creek","STREAM CENTERLINE","perennial",460.971373231677
+"754","Long Branch","STREAM","intermittent",3993.35584518157
+"755","B Everett Jordan Lake","LAKE FLOWLINE","N/A",593.448533656774
+"756","Fan Branch","STREAM","perennial",784.577968789108
+"757","West Branch Price Creek","STREAM","unknown",82.5096798850525
+"758","Buck Branch","STREAM","perennial",1565.08605233788
+"759","B Everett Jordan Lake","LAKE FLOWLINE","N/A",513.916404264117
+"760","Price Creek","STREAM","perennial",217.226247250204
+"761","Buck Branch","STREAM","perennial",950.02684003895
+"762","Buck Branch","CULVERT","intermittent",66.6490633265858
+"763","Buck Branch","STREAM","perennial",252.96141269167
+"764","West Branch Price Creek","STREAM","unknown",547.932060381955
+"765","Price Creek","STREAM","perennial",317.304559681197
+"766","Wilson Creek","STREAM CENTERLINE","perennial",611.048302694496
+"767","Fan Branch","STREAM","perennial",602.859423565839
+"768","Price Creek","STREAM","perennial",121.452249535405
+"769","Buck Branch","STREAM","perennial",1348.46124982358
+"770","Fan Branch","STREAM","perennial",558.583278261001
+"771","Fan Branch","CULVERT","perennial",45.5474737207239
+"772","Northeast Creek","STREAM","intermittent",2010.42322520849
+"773","Northeast Creek","STREAM","intermittent",638.325911015236
+"774","Buck Branch","STREAM","perennial",189.512744386314
+"775","Buck Branch","STREAM","perennial",2336.80800121326
+"776","Wilson Creek","STREAM CENTERLINE","perennial",604.518501480148
+"777","New Hope Creek","STREAM","perennial",2049.53348599385
+"778","Northeast Creek","STREAM","intermittent",702.829187470221
+"779","Price Creek","STREAM","perennial",469.423254382048
+"780","Fan Branch","STREAM","perennial",360.369151781434
+"781","Wilson Creek","STREAM CENTERLINE","perennial",282.998262284726
+"782","Price Creek","CULVERT","perennial",66.6278948002214
+"783","Northeast Creek","STREAM","intermittent",1127.89513499023
+"784","New Hope Creek","STREAM","perennial",695.563868112389
+"785","Fan Branch","STREAM","perennial",558.436799113782
+"786","Wilson Creek","STREAM CENTERLINE","perennial",637.483850170967
+"787","New Hope Creek","STREAM","perennial",169.294533209949
+"788","Fan Branch","STREAM","perennial",337.371354469691
+"789","Crooked Creek","STREAM","perennial",4095.10425244473
+"790","Fan Branch","STREAM","perennial",384.903529896126
+"791","Pritchard's Mill Creek","STREAM","perennial",3788.82222263873
+"792","New Hope Creek","STREAM","perennial",1087.99736802151
+"793","Buck Branch","STREAM","intermittent",551.119557371678
+"794","Wilson Creek","STREAM CENTERLINE","perennial",696.441542578748
+"795","Pritchard's Mill Creek","STREAM","perennial",1631.40763956115
+"796","Pritchard's Mill Creek","STREAM","perennial",289.506563053587
+"797","Pritchard's Mill Creek","STREAM","perennial",591.831912926412
+"798","New Hope Creek","STREAM","perennial",537.765529954089
+"799","Northeast Creek","STREAM","perennial",2068.80980547289
+"800","New Hope Creek","STREAM","perennial",781.695852430994
+"801","Wilson Creek","STREAM","perennial",182.76264858082
+"802","Fan Branch","STREAM","perennial",1031.34278778295
+"803","Crooked Creek","STREAM","perennial",872.958104515437
+"804","Fan Branch","CULVERT","perennial",127.386887353695
+"805","Neville Creek","STREAM","intermittent",1366.97869854941
+"806","Northeast Creek","STREAM","perennial",586.315927358963
+"807","Stillhouse Bottom","STREAM","unknown",637.672774213309
+"808","Northeast Creek","STREAM","perennial",204.782993405059
+"809","Fan Branch","STREAM","perennial",769.476344710473
+"810","Neville Creek","STREAM","intermittent",478.175496667428
+"811","Wilson Creek","STREAM","perennial",241.781429141647
+"812","Stillhouse Bottom","STREAM","intermittent",339.917105864165
+"813","Fan Branch","CULVERT","perennial",96.3179168983429
+"814","Northeast Creek","STREAM","perennial",386.92470918359
+"815","Wilson Creek","STREAM CENTERLINE","perennial",59.9673838044421
+"816","Fan Branch","STREAM","perennial",17.7318552404012
+"817","Fan Branch","CULVERT","perennial",81.8134737966886
+"818","Northeast Creek","STREAM","perennial",121.762124922778
+"819","Wilson Creek","STREAM CENTERLINE","perennial",165.866660970107
+"820","Stillhouse Bottom","STREAM","intermittent",292.567164166651
+"821","Fan Branch","STREAM","perennial",280.049336769676
+"822","Northeast Creek","STREAM","perennial",413.739283233047
+"823","Crooked Creek","STREAM","perennial",1271.48923796572
+"824","Fan Branch","CULVERT","perennial",118.365461947992
+"825","University Lake","LAKE FLOWLINE","N/A",937.601662042569
+"826","Northeast Creek","STREAM","perennial",289.599465600296
+"827","Stillhouse Bottom","STREAM","intermittent",412.887976289063
+"828","Fan Branch","STREAM","perennial",721.517975249791
+"829","Northeast Creek","STREAM","perennial",229.481117805519
+"830","Neville Creek","STREAM","intermittent",1578.57907272301
+"831","Stillhouse Bottom","STREAM","intermittent",325.053508658817
+"832","Northeast Creek","STREAM","perennial",125.772422736419
+"833","Fan Branch","STREAM","perennial",326.883403520242
+"834","Morgan Creek","STREAM CENTERLINE","perennial",208.421335162676
+"835","University Lake","LAKE FLOWLINE","N/A",650.075695996247
+"836","Fan Branch","CULVERT","perennial",99.844315657542
+"837","Northeast Creek","STREAM","perennial",235.549500425643
+"838","Fan Branch","STREAM","perennial",445.242799222699
+"839","University Lake","LAKE FLOWLINE","N/A",873.522876076712
+"840","Stillhouse Bottom","STREAM","perennial",603.043083891807
+"841","Crooked Creek","STREAM","perennial",1372.88343335377
+"842","Wilson Creek","STREAM","perennial",768.117671562239
+"843","Fan Branch","STREAM","perennial",395.17610834878
+"844","Stillhouse Bottom","STREAM","perennial",244.714965411869
+"845","Wilson Creek","STREAM CENTERLINE","perennial",59.9848259290088
+"846","Neville Creek","STREAM","intermittent",1695.92305615879
+"847","Wilson Creek","STREAM CENTERLINE","perennial",498.916161321665
+"848","Fan Branch","STREAM CENTERLINE","perennial",1237.05582011103
+"849","New Hope Creek","STREAM","intermittent",1241.25727222295
+"850","Wilson Creek","STREAM CENTERLINE","perennial",204.578273381584
+"851","Northeast Creek","STREAM","perennial",2062.22813406519
+"852","Burdens Creek","STREAM","perennial",4524.63847569154
+"853","Crooked Creek","STREAM","perennial",293.339079449308
+"854","Neville Creek","STREAM","perennial",2243.43277308945
+"855","Neville Creek","STREAM","perennial",194.154155267516
+"856","Northeast Creek","STREAM","perennial",374.872172428199
+"857","Burdens Creek","STREAM","perennial",806.932802412219
+"858","University Lake","LAKE FLOWLINE","N/A",585.664123437781
+"859","Burdens Creek","STREAM","perennial",232.896436711533
+"860","Morgan Creek","STREAM CENTERLINE","perennial",1141.05136361823
+"861","Morgan Creek","STREAM CENTERLINE","perennial",1402.53241771147
+"862","Burdens Creek","STREAM","perennial",210.142858579282
+"863","Burdens Creek","STREAM","perennial",769.066480791711
+"864","Morgan Creek","STREAM CENTERLINE","perennial",307.887396700433
+"865","Morgan Creek","STREAM CENTERLINE","perennial",220.687073214903
+"866","Neville Creek","STREAM","perennial",1391.7236559757
+"867","Northeast Creek","STREAM","intermittent",441.003240387191
+"868","Morgan Creek","STREAM CENTERLINE","perennial",232.407895026074
+"869","Crooked Creek","STREAM","perennial",519.401250393579
+"870","Morgan Creek","STREAM CENTERLINE","perennial",555.723003024074
+"871","Morgan Creek","STREAM CENTERLINE","perennial",735.960871471501
+"872","University Lake","LAKE FLOWLINE","N/A",124.734213219762
+"873","Wilson Creek","STREAM CENTERLINE","perennial",916.25727057703
+"874","Battle Branch","STREAM","perennial",410.950229036916
+"875","Phils Creek","STREAM","perennial",1479.37164056041
+"876","Morgan Creek","STREAM CENTERLINE","perennial",155.296087705965
+"877","Phils Creek","STREAM","intermittent",1311.522268385
+"878","Battle Branch","STREAM","perennial",144.090415305377
+"879","Phils Creek","STREAM","perennial",1698.27568176814
+"880","Shetley Branch","STREAM","intermittent",1742.48762176177
+"881","Battle Branch","STREAM","perennial",264.691413750365
+"882","Toms Creek","STREAM","perennial",261.576470076148
+"883","Phils Creek","STREAM","intermittent",2163.16455797298
+"884","Phils Creek","STREAM","intermittent",22.5027838834732
+"885","Shetley Branch","STREAM","intermittent",795.214993080671
+"886","Dry Creek","STREAM CENTERLINE","perennial",40.5398825317374
+"887","Cedar Fork","STREAM","perennial",323.028131565025
+"888","Northeast Creek","STREAM","perennial",1390.54145802246
+"889","Morgan Creek","STREAM","perennial",1208.9676351502
+"890","Mountain Creek","STREAM","perennial",1617.67955353377
+"891","New Hope Creek","STREAM","perennial",2002.38145811415
+"892","Sandy Creek","STREAM","perennial",6551.63264895022
+"893","Sandy Creek","STREAM","intermittent",2.60534577653175
+"894","New Hope Creek","STREAM","intermittent",4915.86699593025
+"895","Burdens Creek","STREAM","perennial",2082.63491377814
+"896","Neville Creek","STREAM","perennial",971.621571515996
+"897","Morgan Creek","STREAM CENTERLINE","perennial",309.204299853284
+"898","Morgan Creek","STREAM CENTERLINE","perennial",1135.49159049894
+"899","Morgan Creek","STREAM CENTERLINE","perennial",404.692693802105
+"900","University Lake","LAKE FLOWLINE","N/A",233.35608100394
+"901","Northeast Creek","STREAM","intermittent",646.135977230995
+"902","Morgan Creek","STREAM CENTERLINE","perennial",566.964156903317
+"903","Wilson Creek","STREAM CENTERLINE","perennial",1126.36652479543
+"904","Morgan Creek","STREAM CENTERLINE","perennial",162.581707012007
+"905","Neville Creek","STREAM","perennial",1287.76438240716
+"906","Morgan Creek","STREAM CENTERLINE","perennial",1020.90878523862
+"907","Crooked Creek","STREAM","perennial",600.98393070439
+"908","University Lake","LAKE FLOWLINE","N/A",169.506450347171
+"909","Neville Creek","STREAM","perennial",650.8593059589
+"910","Morgan Creek","STREAM CENTERLINE","perennial",2905.81458639683
+"911","New Hope Creek","STREAM","intermittent",583.633124839838
+"912","Northeast Creek","STREAM","intermittent",250.419921173986
+"913","Northeast Creek","STREAM","intermittent",358.074530410972
+"914","Morgan Creek","STREAM CENTERLINE","perennial",810.193940575637
+"915","Morgan Creek","STREAM CENTERLINE","perennial",658.118655401375
+"916","Morgan Creek","STREAM CENTERLINE","perennial",819.562067864072
+"917","Northeast Creek","STREAM","perennial",268.04059126762
+"918","Morgan Creek","STREAM CENTERLINE","perennial",213.863583881904
+"919","Morgan Creek","STREAM CENTERLINE","perennial",234.554932962078
+"920","Morgan Creek","STREAM CENTERLINE","perennial",967.142939567284
+"921","University Lake","LAKE FLOWLINE","N/A",512.659426886941
+"922","Buck Branch","STREAM","perennial",1650.33947930245
+"923","Crooked Creek","STREAM","perennial",964.923651551562
+"924","Neville Creek","STREAM","perennial",413.645483177807
+"925","Morgan Creek","STREAM CENTERLINE","perennial",316.763677442551
+"926","Morgan Creek","STREAM CENTERLINE","perennial",47.2711993716603
+"927","Morgan Creek","STREAM CENTERLINE","perennial",165.81929209124
+"928","Morgan Creek","STREAM CENTERLINE","perennial",354.214526049879
+"929","Morgan Creek","STREAM CENTERLINE","perennial",251.462422464058
+"930","New Hope Creek","STREAM","intermittent",399.843091413439
+"931","Morgan Creek","STREAM CENTERLINE","perennial",238.268836952365
+"932","Morgan Creek","STREAM CENTERLINE","perennial",55.0451530012848
+"933","Morgan Creek","STREAM CENTERLINE","perennial",426.068886717832
+"934","Morgan Creek","STREAM CENTERLINE","perennial",1645.36832054818
+"935","New Hope Creek","STREAM","intermittent",113.585000788337
+"936","Burdens Creek","STREAM","perennial",2365.9307308838
+"937","Morgan Creek","STREAM CENTERLINE","perennial",249.281519426345
+"938","Morgan Creek","STREAM CENTERLINE","perennial",214.015296145979
+"939","Neville Creek","STREAM","intermittent",545.370493540193
+"940","Crooked Creek","STREAM","perennial",609.486850856556
+"941","Morgan Creek","STREAM CENTERLINE","perennial",1191.47060282931
+"942","Morgan Creek","STREAM CENTERLINE","perennial",499.113287045055
+"943","University Lake","LAKE FLOWLINE","N/A",894.081485622573
+"944","New Hope Creek","STREAM","intermittent",195.983991590988
+"945","Burdens Creek","STREAM","intermittent",2356.62855791995
+"946","Morgan Creek","STREAM CENTERLINE","perennial",337.496502836472
+"947","Morgan Creek","STREAM CENTERLINE","perennial",249.773789569636
+"948","Northeast Creek","STREAM","perennial",1465.43374074499
+"949","Morgan Creek","STREAM CENTERLINE","perennial",89.6277703547489
+"950","Morgan Creek","STREAM CENTERLINE","perennial",151.374420338763
+"951","Morgan Creek","STREAM CENTERLINE","perennial",15.9312875173669
+"952","Morgan Creek","STREAM CENTERLINE","perennial",11.6838754135101
+"953","Morgan Creek","STREAM","perennial",27.9478680161773
+"954","Morgan Creek","STREAM CENTERLINE","perennial",150.594662824713
+"955","Morgan Creek","STREAM CENTERLINE","perennial",65.5219947960002
+"956","Morgan Creek","STREAM CENTERLINE","perennial",38.3655197091934
+"957","Morgan Creek","STREAM CENTERLINE","perennial",53.9476536729614
+"958","Pritchard Branch","STREAM CENTERLINE","perennial",158.522061937078
+"959","University Lake","LAKE FLOWLINE","N/A",320.771572041187
+"960","University Lake","LAKE FLOWLINE","N/A",612.250172348116
+"961","Morgan Creek","STREAM CENTERLINE","perennial",205.69892174967
+"962","Morgan Creek","STREAM CENTERLINE","perennial",247.604897188232
+"963","Toms Creek","STREAM CENTERLINE","perennial",104.347596706
+"964","Northeast Creek","STREAM","perennial",176.937043510029
+"965","Morgan Creek","STREAM CENTERLINE","perennial",114.16513386832
+"966","Neville Creek","STREAM","intermittent",1311.24909505371
+"967","University Lake","LAKE FLOWLINE","N/A",450.108756569138
+"968","Pritchard Branch","CULVERT","perennial",176.167307100709
+"969","Burdens Creek","CONNECTOR","unknown",407.288651095357
+"970","Neville Creek","STREAM","perennial",2305.5565434837
+"971","Neville Creek","STREAM","perennial",38.1677560867901
+"972","Morgan Creek","STREAM CENTERLINE","perennial",2770.93520023247
+"973","Morgan Creek","STREAM CENTERLINE","perennial",468.794222587297
+"974","Morgan Creek","STREAM CENTERLINE","perennial",721.557137498875
+"975","Buck Branch","STREAM","perennial",2293.94251368285
+"976","Wilson Creek","CULVERT","perennial",139.950649940654
+"977","Morgan Creek","STREAM CENTERLINE","perennial",87.2482711267447
+"978","Morgan Creek","STREAM CENTERLINE","perennial",978.024158978106
+"979","New Hope Creek","STREAM","intermittent",966.638730045278
+"980","Morgan Creek","STREAM CENTERLINE","perennial",378.134042796888
+"981","Neville Creek","STREAM","perennial",607.92477842028
+"982","Morgan Creek","STREAM CENTERLINE","perennial",1524.02482271512
+"983","Neville Creek","STREAM","perennial",1364.01681475686
+"984","Morgan Creek","STREAM CENTERLINE","perennial",119.880960167279
+"985","Morgan Creek","STREAM CENTERLINE","perennial",89.0919463184287
+"986","Morgan Creek","STREAM CENTERLINE","perennial",87.9657821840214
+"987","University Lake","LAKE FLOWLINE","N/A",372.859947732436
+"988","Morgan Creek","STREAM CENTERLINE","perennial",65.0138311157628
+"989","Morgan Creek","STREAM CENTERLINE","perennial",186.584355470853
+"990","Northeast Creek","STREAM","perennial",640.739006853958
+"991","Morgan Creek","STREAM CENTERLINE","perennial",1042.72873542764
+"992","Neville Creek","STREAM","perennial",177.433102050725
+"993","Meeting of the Waters","STREAM CENTERLINE","perennial",270.516464781725
+"994","Morgan Creek","STREAM CENTERLINE","perennial",102.280594560955
+"995","University Lake","LAKE FLOWLINE","N/A",118.842158434307
+"996","University Lake","LAKE FLOWLINE","N/A",982.245857129871
+"997","Morgan Creek","STREAM CENTERLINE","perennial",111.942567592211
+"998","Morgan Creek","STREAM CENTERLINE","perennial",364.650114138618
+"999","Crooked Creek","STREAM","perennial",1503.02130002094
+"1000","Toms Creek","STREAM","perennial",985.634892082252
+"1001","University Lake","LAKE FLOWLINE","N/A",193.102610835862
+"1002","Crooked Creek","STREAM","perennial",139.527015066736
+"1003","Meeting of the Waters","STREAM CENTERLINE","perennial",704.188170614719
+"1004","Meeting of the Waters","STREAM CENTERLINE","perennial",442.537653123071
+"1005","Morgan Creek","STREAM CENTERLINE","perennial",164.106255306569
+"1006","University Lake","LAKE FLOWLINE","N/A",1127.89697684521
+"1007","Crooked Creek","STREAM","perennial",77.6377875429593
+"1008","Toms Creek","STREAM","perennial",155.812974540577
+"1009","Morgan Creek","STREAM CENTERLINE","perennial",114.513862874383
+"1010","Morgan Creek","STREAM CENTERLINE","perennial",205.064859672176
+"1011","Morgan Creek","STREAM CENTERLINE","perennial",23.1113687924682
+"1012","University Lake","LAKE FLOWLINE","N/A",1042.19769294037
+"1013","Morgan Creek","STREAM CENTERLINE","perennial",506.82945928041
+"1014","Northeast Creek","STREAM","perennial",533.769980966892
+"1015","Pritchard Branch","STREAM","perennial",296.944621364859
+"1016","Meeting of the Waters","STREAM CENTERLINE","perennial",239.438597742479
+"1017","Morgan Creek","STREAM CENTERLINE","perennial",235.840894881356
+"1018","Morgan Creek","STREAM CENTERLINE","perennial",348.764802759514
+"1019","Morgan Creek","STREAM CENTERLINE","perennial",262.203288286584
+"1020","Northeast Creek","STREAM","perennial",1272.39888670036
+"1021","Toms Creek","STREAM","perennial",305.255360083142
+"1022","Morgan Creek","STREAM CENTERLINE","perennial",74.0057773869803
+"1023","Morgan Creek","STREAM CENTERLINE","perennial",381.788294521364
+"1024","Bolin Creek","STREAM CENTERLINE","perennial",686.269003752188
+"1025","Morgan Creek","STREAM","perennial",574.851723212122
+"1026","New Hope Creek","STREAM","perennial",318.678195082901
+"1027","Hogan Creek","STREAM","intermittent",229.780730376223
+"1028","Hogan Creek","STREAM","intermittent",70.9925173880547
+"1029","Morgan Creek","STREAM","perennial",1411.86211630065
+"1030","Bolin Creek","STREAM CENTERLINE","perennial",260.622176424689
+"1031","Booker Creek","STREAM CENTERLINE","perennial",167.97831112315
+"1032","Booker Creek","STREAM CENTERLINE","perennial",11.4183001672578
+"1033","Eastwood Lake","LAKE FLOWLINE","N/A",89.1452624320733
+"1034","Eastwood Lake","LAKE FLOWLINE","N/A",159.499720457973
+"1035","Booker Creek","STREAM CENTERLINE","perennial",175.709774828209
+"1036","Jolly Branch","STREAM","perennial",904.12243624234
+"1037","Booker Creek","STREAM","perennial",354.63489162345
+"1038","Morgan Creek","STREAM CENTERLINE","perennial",254.149806923801
+"1039","New Hope Creek","STREAM CENTERLINE","perennial",1016.55405873534
+"1040","Morgan Creek","STREAM CENTERLINE","perennial",217.185485394086
+"1041","Neville Creek","STREAM CENTERLINE","perennial",1264.89225064657
+"1042","Morgan Creek","STREAM CENTERLINE","perennial",98.4677511375763
+"1043","Neville Creek","STREAM","perennial",761.404012964646
+"1044","Pritchard Branch","STREAM","perennial",504.285697657111
+"1045","University Lake","LAKE FLOWLINE","N/A",673.484316931239
+"1046","Morgan Creek","STREAM CENTERLINE","perennial",252.144629648782
+"1047","Burdens Creek","STREAM","intermittent",2073.32851546299
+"1048","Toms Creek","STREAM","perennial",877.602508981779
+"1049","Phils Creek","STREAM","perennial",1496.33773822487
+"1050","University Lake","LAKE FLOWLINE","N/A",91.2334598752323
+"1051","Morgan Creek","STREAM CENTERLINE","perennial",1275.00415009161
+"1052","Chapel Branch","STREAM","perennial",1015.99004397364
+"1053","University Lake","LAKE FLOWLINE","N/A",148.838449683136
+"1054","Toms Creek","STREAM","perennial",649.628347280171
+"1055","University Lake","LAKE FLOWLINE","N/A",223.739870004059
+"1056","University Lake","LAKE FLOWLINE","N/A",32.5411636626748
+"1057","Morgan Creek","STREAM CENTERLINE","perennial",411.178754888568
+"1058","Morgan Creek","STREAM CENTERLINE","perennial",324.979140873843
+"1059","Pritchard Branch","STREAM","perennial",440.28619917881
+"1060","Morgan Creek","STREAM CENTERLINE","perennial",271.998402575337
+"1061","Phils Creek","STREAM","perennial",571.769264833303
+"1062","Toms Creek","STREAM","perennial",441.23724378171
+"1063","Toms Creek","STREAM","perennial",1491.81395835351
+"1064","Burdens Creek","STREAM","intermittent",680.518065166459
+"1065","Phils Creek","STREAM","perennial",357.438912071668
+"1066","Chapel Branch","STREAM","perennial",520.45389268056
+"1067","University Lake","LAKE FLOWLINE","N/A",372.843897939745
+"1068","Phils Creek","STREAM","perennial",196.077754834988
+"1069","University Lake","LAKE FLOWLINE","N/A",209.927266589697
+"1070","Pritchard Branch","STREAM","perennial",523.42794067529
+"1071","Pritchard Branch","STREAM","perennial",66.5507770684366
+"1072","Pritchard Branch","CULVERT","perennial",74.7996387682909
+"1073","Phils Creek","STREAM","perennial",672.470064743109
+"1074","Pritchard Branch","STREAM","perennial",186.424230194435
+"1075","Toms Creek","CULVERT","perennial",163.930355693896
+"1076","Toms Creek","STREAM","perennial",89.321108186416
+"1077","Chapel Branch","STREAM","perennial",1562.53163317281
+"1078","Toms Creek","STREAM","perennial",124.07107318635
+"1079","Northeast Creek","STREAM","perennial",2823.33645440367
+"1080","Pritchard Branch","STREAM","perennial",213.968368695264
+"1081","University Lake","LAKE FLOWLINE","N/A",860.099048260368
+"1082","University Lake","LAKE FLOWLINE","N/A",59.1186935335102
+"1083","Toms Creek","STREAM","perennial",313.776934549788
+"1084","Chapel Branch","CULVERT","perennial",195.521763446742
+"1085","University Lake","LAKE FLOWLINE","N/A",124.249164685276
+"1086","Toms Creek","STREAM","perennial",443.046760208307
+"1087","Phils Creek","STREAM","perennial",39.9210216300436
+"1088","Toms Creek","STREAM","perennial",116.270283265609
+"1089","Crooked Creek","STREAM","perennial",3129.63462888277
+"1090","Phils Creek","STREAM","perennial",935.66853609709
+"1091","Toms Creek","STREAM","perennial",1191.85651205436
+"1092","Phils Creek","STREAM","perennial",268.409166111961
+"1093","Morgan Creek","STREAM CENTERLINE","perennial",193.25492352734
+"1094","Northeast Creek","STREAM","perennial",2136.43597156069
+"1095","Morgan Creek","STREAM CENTERLINE","perennial",106.348862934207
+"1096","Morgan Creek","STREAM CENTERLINE","perennial",173.873454667346
+"1097","Phils Creek","STREAM","perennial",894.869950840927
+"1098","Phils Creek","STREAM","perennial",288.608951937568
+"1099","Morgan Creek","STREAM CENTERLINE","perennial",207.469453232854
+"1100","Morgan Creek","STREAM CENTERLINE","perennial",3.42385404118989
+"1101","Northeast Creek","STREAM","perennial",652.3433681434
+"1102","Phils Creek","STREAM","perennial",401.690902937482
+"1103","Chapel Branch","STREAM CENTERLINE","perennial",275.881254240502
+"1104","Chapel Branch","CULVERT","perennial",67.1697897038663
+"1105","Chapel Branch","STREAM CENTERLINE","perennial",90.9077391086852
+"1106","Morgan Creek","STREAM CENTERLINE","perennial",146.81540818929
+"1107","Morgan Creek","STREAM CENTERLINE","perennial",13.0765792142456
+"1108","Chapel Branch","STREAM","perennial",445.929828743426
+"1109","Toms Creek","CULVERT","perennial",37.0039545501115
+"1110","Morgan Creek","STREAM CENTERLINE","perennial",262.161303042109
+"1111","Morgan Creek","STREAM CENTERLINE","perennial",13.5760616616703
+"1112","Morgan Creek","STREAM CENTERLINE","perennial",8.87902825281506
+"1113","Toms Creek","CULVERT","perennial",164.070972209865
+"1114","Toms Creek","STREAM","perennial",4.51297342415966
+"1115","Northeast Creek","STREAM","perennial",2009.85351046837
+"1116","Phils Creek","STREAM","perennial",357.785191342312
+"1117","Phils Creek","STREAM","perennial",403.398102354967
+"1118","Morgan Creek","STREAM CENTERLINE","perennial",110.088142173309
+"1119","Crooked Creek","STREAM","perennial",1200.63376947038
+"1120","Morgan Creek","STREAM CENTERLINE","perennial",182.185856629829
+"1121","New Hope Creek","STREAM","perennial",4.57698762548169
+"1122","Northeast Creek","STREAM","perennial",638.124850548303
+"1123","Phils Creek","STREAM","perennial",967.710018889298
+"1124","Morgan Creek","STREAM CENTERLINE","perennial",91.9063869044662
+"1125","New Hope Creek","STREAM","intermittent",166.880516677192
+"1126","Phils Creek","STREAM","perennial",179.581563149475
+"1127","New Hope Creek","STREAM","intermittent",186.711652910421
+"1128","New Hope Creek","STREAM","intermittent",267.723629346342
+"1129","Toms Creek","STREAM","perennial",673.424474924349
+"1130","Toms Creek","STREAM","perennial",105.472422866851
+"1131","Phils Creek","STREAM","perennial",332.199189597087
+"1132","Phils Creek","STREAM","perennial",402.932128980932
+"1133","Phils Creek","STREAM","perennial",363.802349086406
+"1134","Morgan Creek","STREAM CENTERLINE","perennial",501.485620877329
+"1135","Morgan Creek","STREAM CENTERLINE","perennial",233.705538731531
+"1136","Toms Creek","STREAM","perennial",447.523954689904
+"1137","Phils Creek","STREAM","perennial",661.246414447754
+"1138","Morgan Creek","STREAM CENTERLINE","perennial",148.778898269513
+"1139","Morgan Creek","STREAM CENTERLINE","perennial",150.717656248115
+"1140","Toms Creek","CULVERT","perennial",83.8877415059617
+"1141","Morgan Creek","STREAM CENTERLINE","perennial",227.7896795149
+"1142","Morgan Creek","STREAM CENTERLINE","perennial",371.718125886766
+"1143","Lloyd's Branch","CULVERT","intermittent",444.469671907021
+"1144","Booker Creek","STREAM CENTERLINE","perennial",9.64484387449187
+"1145","Morgan Creek","STREAM CENTERLINE","perennial",146.853399612721
+"1146","Toms Creek","STREAM","perennial",687.501977330033
+"1147","Battle Branch","STREAM","perennial",372.929962342807
+"1148","Toms Creek","STREAM","perennial",67.0773311732693
+"1149","Morgan Creek","STREAM CENTERLINE","perennial",156.306378568398
+"1150","Battle Branch","STREAM","perennial",148.761203881836
+"1151","Lloyd's Branch","CULVERT","intermittent",49.0164193537707
+"1152","Morgan Creek","STREAM CENTERLINE","perennial",495.171535447194
+"1153","Battle Branch","STREAM","perennial",156.518427966532
+"1154","Battle Branch","STREAM","perennial",502.392531804637
+"1155","Battle Branch","STREAM","perennial",1028.98509642759
+"1156","Battle Branch","STREAM","perennial",225.934969656808
+"1157","Battle Branch","STREAM","perennial",113.540826720864
+"1158","Battle Branch","STREAM","perennial",552.728841237917
+"1159","Morgan Creek","STREAM CENTERLINE","perennial",97.728150379729
+"1160","Morgan Creek","STREAM CENTERLINE","perennial",148.045819980899
+"1161","Morgan Creek","STREAM CENTERLINE","perennial",319.926429655426
+"1162","Morgan Creek","STREAM CENTERLINE","perennial",142.613457944324
+"1163","Toms Creek","STREAM","perennial",305.349032321974
+"1164","Phils Creek","STREAM","perennial",1923.48512858295
+"1165","Tanyard Branch","STREAM","perennial",159.984547371725
+"1166","Cedar Fork","STREAM","perennial",203.247261526246
+"1167","Northeast Creek","STREAM","perennial",1078.32071777859
+"1168","Toms Creek","STREAM","perennial",133.886329216045
+"1169","Morgan Creek","STREAM CENTERLINE","perennial",253.257840646679
+"1170","Battle Branch","STREAM","perennial",1061.56793806965
+"1171","Battle Branch","STREAM","perennial",122.150362914552
+"1172","Tanyard Branch","CULVERT","perennial",90.3414888851689
+"1173","Toms Creek","STREAM","perennial",274.459150486395
+"1174","Morgan Creek","STREAM CENTERLINE","perennial",221.476237851629
+"1175","Morgan Creek","STREAM CENTERLINE","perennial",262.813742050856
+"1176","Price Creek","STREAM","perennial",1266.46257723931
+"1177","Pritchard's Mill Creek","STREAM","perennial",367.523090625348
+"1178","Morgan Creek","STREAM CENTERLINE","perennial",291.139303669544
+"1179","University Lake","LAKE FLOWLINE","N/A",394.633548912064
+"1180","Buck Branch","CULVERT","perennial",52.2567346200222
+"1181","Buck Branch","STREAM","perennial",843.374996200766
+"1182","Little Creek","STREAM CENTERLINE","perennial",138.381746523217
+"1183","Phils Creek","STREAM","perennial",396.196169642034
+"1184","Battle Branch","STREAM","perennial",70.9731018699237
+"1185","Shetley Branch","STREAM","intermittent",365.150970609211
+"1186","Morgan Creek","STREAM CENTERLINE","perennial",258.764481857333
+"1187","Morgan Creek","STREAM CENTERLINE","perennial",50.0167008867463
+"1188","Booker Creek","STREAM","ephemeral",43.6807327910397
+"1189","Shetley Branch","STREAM","intermittent",2.36271697086643
+"1190","Toms Creek","CULVERT","perennial",91.9560295057061
+"1191","Morgan Creek","STREAM CENTERLINE","perennial",68.7115174977279
+"1192","Shetley Branch","CULVERT","intermittent",44.5037057754252
+"1193","Morgan Creek","STREAM CENTERLINE","perennial",69.9311431297855
+"1194","Shetley Branch","STREAM","intermittent",392.574285083745
+"1195","Morgan Creek","STREAM CENTERLINE","perennial",558.45382204943
+"1196","Morgan Creek","STREAM CENTERLINE","perennial",236.8806563683
+"1197","Bolin Creek","STREAM CENTERLINE","perennial",90.8927867598724
+"1198","Bolin Creek","STREAM CENTERLINE","perennial",632.601820098747
+"1199","Morgan Creek","STREAM CENTERLINE","perennial",75.6841761641436
+"1200","Morgan Creek","STREAM CENTERLINE","perennial",121.164135141964
+"1201","Mill Race Branch","STREAM","perennial",453.576104909008
+"1202","Lloyd's Branch","STREAM","perennial",617.496419281936
+"1203","Battle Branch","STREAM","perennial",282.889783858271
+"1204","Battle Branch","STREAM","perennial",23.1489679496729
+"1205","Shetley Branch","STREAM","intermittent",126.103312824853
+"1206","Lloyd's Branch","STREAM","perennial",129.755984686321
+"1207","Tanyard Branch","STREAM","perennial",762.638460629619
+"1208","Shetley Branch","STREAM","intermittent",130.3501771573
+"1209","Shetley Branch","CULVERT","intermittent",52.9077369972523
+"1210","Little Creek","STREAM CENTERLINE","perennial",200.338414174831
+"1211","Shetley Branch","STREAM","intermittent",133.412808333407
+"1212","Toms Creek","STREAM","perennial",407.963751212416
+"1213","Tracy Branch","STREAM CENTERLINE","perennial",326.560524936469
+"1214","Bolin Creek","STREAM CENTERLINE","perennial",990.744693762453
+"1215","Bolin Creek","STREAM CENTERLINE","perennial",293.96429233688
+"1216","Bolin Creek","STREAM CENTERLINE","perennial",911.589230425142
+"1217","Battle Branch","STREAM","perennial",372.372019163816
+"1218","Battle Branch","STREAM","perennial",542.058129070028
+"1219","Tanyard Branch","STREAM","perennial",622.269981837026
+"1220","Toms Creek","STREAM","perennial",179.835986384272
+"1221","Crooked Creek","STREAM","perennial",3957.31454856152
+"1222","Toms Creek","CULVERT","intermittent",45.6756552162029
+"1223","Mill Race Branch","STREAM","perennial",160.861429651258
+"1224","Toms Creek","STREAM","intermittent",71.2682815166979
+"1225","Phils Creek","STREAM","intermittent",147.712181523308
+"1226","Mill Race Branch","CULVERT","perennial",103.229857912894
+"1227","Shetley Branch","CULVERT","intermittent",557.665267704133
+"1228","Phils Creek","STREAM","intermittent",117.588058616198
+"1229","Toms Creek","STREAM","intermittent",152.248562430577
+"1230","Tanyard Branch","STREAM","perennial",662.582320425702
+"1231","Little Creek","STREAM CENTERLINE","perennial",2290.56737225295
+"1232","Phils Creek","STREAM","intermittent",297.702207540594
+"1233","Morgan Creek","STREAM CENTERLINE","perennial",1493.02742801482
+"1234","Tracy Branch","STREAM CENTERLINE","perennial",912.60425026031
+"1235","Battle Branch","STREAM","perennial",471.100174890106
+"1236","Mill Race Branch","STREAM","perennial",901.301533813332
+"1237","Little Creek","STREAM CENTERLINE","perennial",560.964843882819
+"1238","Morgan Creek","STREAM CENTERLINE","perennial",265.898292113328
+"1239","Little Creek","STREAM CENTERLINE","perennial",209.425022538944
+"1240","Morgan Creek","STREAM CENTERLINE","perennial",426.037921362059
+"1241","Bolin Creek","STREAM CENTERLINE","perennial",978.583878463137
+"1242","Phils Creek","STREAM","intermittent",531.090802890415
+"1243","Toms Creek","STREAM","intermittent",786.999055285147
+"1244","Morgan Creek","STREAM CENTERLINE","perennial",325.133858123277
+"1245","Toms Creek","STREAM","perennial",73.350552839843
+"1246","Toms Creek","CULVERT","perennial",45.6798526816819
+"1247","Dry Gulch","CULVERT","intermittent",104.871724563713
+"1248","Wilson Creek","CULVERT","perennial",216.08094222947
+"1249","Dry Gulch","STREAM","intermittent",292.932209685321
+"1250","Toms Creek","STREAM","intermittent",147.971592215507
+"1251","Morgan Creek","STREAM CENTERLINE","perennial",178.874203060163
+"1252","Booker Creek","STREAM CENTERLINE","perennial",414.658208016364
+"1253","Mill Race Branch","STREAM","perennial",876.950934406704
+"1254","Northeast Creek","STREAM","perennial",2701.87220527629
+"1255","Shetley Branch","STREAM","intermittent",962.106163105904
+"1256","Bolin Creek","STREAM CENTERLINE","perennial",576.701210710081
+"1257","Mill Race Branch","CULVERT","perennial",69.6069102677665
+"1258","Bolin Creek","STREAM CENTERLINE","perennial",93.7659875625976
+"1259","Dry Gulch","STREAM","intermittent",225.385106760474
+"1260","Mill Race Branch","STREAM","perennial",281.326346305861
+"1261","Morgan Creek","STREAM CENTERLINE","perennial",183.218686634055
+"1262","Dry Gulch","CULVERT","intermittent",95.02386769749
+"1263","Battle Branch","STREAM","perennial",816.135754029643
+"1264","Toms Creek","STREAM","intermittent",269.986525842719
+"1265","Mill Race Branch","STREAM CENTERLINE","perennial",293.162239115294
+"1266","Bolin Creek","STREAM CENTERLINE","perennial",446.838370444074
+"1267","Bolin Creek","STREAM CENTERLINE","perennial",61.3478281774806
+"1268","Bolin Creek","STREAM CENTERLINE","perennial",8.32926049201152
+"1269","Toms Creek","STREAM","intermittent",64.6522716584863
+"1270","Bolin Creek","CULVERT","perennial",157.374377495838
+"1271","Booker Creek","STREAM CENTERLINE","perennial",302.027039131989
+"1272","Dry Gulch","STREAM","intermittent",1236.48532125042
+"1273","Bolin Creek","STREAM CENTERLINE","perennial",486.374725965911
+"1274","Bolin Creek","STREAM CENTERLINE","perennial",19.3074735118218
+"1275","Toms Creek","CULVERT","intermittent",81.9940266684337
+"1276","Bolin Creek","STREAM CENTERLINE","perennial",106.053255266676
+"1277","Bolin Creek","STREAM CENTERLINE","perennial",161.247536272064
+"1278","Toms Creek","STREAM","intermittent",93.3766671308582
+"1279","Bolin Creek","STREAM CENTERLINE","perennial",13.5604965633481
+"1280","Bolin Creek","STREAM CENTERLINE","perennial",170.486247660473
+"1281","Morgan Creek","STREAM CENTERLINE","perennial",77.0757883874077
+"1282","Bolin Creek","STREAM CENTERLINE","perennial",1803.0479739062
+"1283","Toms Creek","STREAM","intermittent",91.8299452127258
+"1284","Wilson Creek","STREAM CENTERLINE","perennial",150.167493060916
+"1285","Wilson Creek","STREAM CENTERLINE","perennial",87.3685729387247
+"1286","Bolin Creek","STREAM CENTERLINE","perennial",332.996994662856
+"1287","Battle Branch","STREAM","perennial",370.046014965286
+"1288","Toms Creek","STREAM","intermittent",40.018349185845
+"1289","Bolin Creek","STREAM CENTERLINE","perennial",371.437169426617
+"1290","Morgan Creek","STREAM CENTERLINE","perennial",157.36627040338
+"1291","Booker Creek","STREAM CENTERLINE","perennial",330.944202477751
+"1292","Bolin Creek","STREAM CENTERLINE","perennial",79.263384200853
+"1293","Toms Creek","STREAM","intermittent",180.687004074406
+"1294","Bolin Creek","STREAM CENTERLINE","perennial",1094.45177554393
+"1295","Dry Gulch","STREAM","intermittent",1537.24966422217
+"1296","Tracy Branch","CULVERT","perennial",65.1059275030901
+"1297","Tracy Branch","STREAM CENTERLINE","perennial",1463.08654088214
+"1298","Tracy Branch","STREAM CENTERLINE","perennial",162.68334227875
+"1299","Crooked Creek","STREAM","perennial",2912.1700224215
+"1300","Bolin Creek","STREAM CENTERLINE","perennial",661.489172726419
+"1301","Morgan Creek","STREAM CENTERLINE","perennial",388.281872762443
+"1302","Toms Creek","STREAM","intermittent",326.638373872786
+"1303","Phils Creek","STREAM","perennial",3794.55319322784
+"1304","Battle Branch","STREAM","perennial",652.419276422966
+"1305","Toms Creek","CULVERT","intermittent",36.9866146021238
+"1306","Bolin Creek","STREAM CENTERLINE","perennial",418.274614972706
+"1307","Wilson Creek","CULVERT","perennial",61.5767922038843
+"1308","Bolin Creek","STREAM CENTERLINE","perennial",23.0476866606868
+"1309","Morgan Creek","STREAM CENTERLINE","perennial",88.0481410620827
+"1310","Bolin Creek","STREAM CENTERLINE","perennial",497.887347773512
+"1311","Bolin Creek","STREAM CENTERLINE","perennial",89.7957296781115
+"1312","UT Tracy Branch","STREAM CENTERLINE","perennial",368.351859224729
+"1313","Bolin Creek","STREAM CENTERLINE","perennial",118.274511304831
+"1314","Battle Branch","STREAM","perennial",317.650080762579
+"1315","Booker Creek","STREAM CENTERLINE","perennial",704.811144005896
+"1316","Toms Creek","STREAM","intermittent",432.5755906334
+"1317","Booker Creek","STREAM CENTERLINE","perennial",139.317763220243
+"1318","Toms Creek","CULVERT","intermittent",103.239167253864
+"1319","Bolin Creek","STREAM CENTERLINE","perennial",277.71424212249
+"1320","Bolin Creek","CULVERT","perennial",21.5488021776025
+"1321","Bolin Creek","STREAM CENTERLINE","perennial",544.184470985366
+"1322","Bolin Creek","STREAM CENTERLINE","perennial",744.16088403206
+"1323","Toms Creek","STREAM","intermittent",148.803534457233
+"1324","Booker Creek","STREAM CENTERLINE","perennial",196.051268508544
+"1325","Bolin Creek","STREAM CENTERLINE","perennial",270.999797367089
+"1326","Cole Springs Branch","STREAM","perennial",383.17812241074
+"1327","Bolin Creek","STREAM CENTERLINE","perennial",522.409074749054
+"1328","Bolin Creek","STREAM CENTERLINE","perennial",1023.8444337903
+"1329","Bolin Creek","STREAM CENTERLINE","perennial",157.141381695171
+"1330","Cole Springs Branch","STREAM","perennial",166.303018167899
+"1331","Morgan Creek","STREAM CENTERLINE","perennial",825.382397494864
+"1332","Bolin Creek","STREAM CENTERLINE","perennial",194.408951684865
+"1333","Bolin Creek","STREAM CENTERLINE","perennial",535.165761639711
+"1334","Bolin Creek","STREAM CENTERLINE","perennial",92.8592625923038
+"1335","Phils Creek","STREAM","perennial",1099.30351527587
+"1336","Bolin Creek","STREAM CENTERLINE","perennial",453.502170145089
+"1337","Morgan Creek","STREAM CENTERLINE","perennial",212.627885008025
+"1338","Cole Springs Branch","STREAM","perennial",483.496888048723
+"1339","Bolin Creek","STREAM CENTERLINE","perennial",597.277436217211
+"1340","Craigs Branch","STREAM","perennial",349.508657946318
+"1341","Cole Springs Branch","STREAM","perennial",422.212638855437
+"1342","Bolin Creek","STREAM CENTERLINE","perennial",152.696589725926
+"1343","Craigs Branch","STREAM","perennial",340.649013133
+"1344","Third Fork Creek","STREAM","perennial",1528.96122141096
+"1345","Tracy Branch","STREAM CENTERLINE","perennial",226.42043764705
+"1346","Morgan Creek","STREAM CENTERLINE","perennial",634.6178330066
+"1347","Cole Springs Branch","STREAM","perennial",77.0145188766211
+"1348","Bolin Creek","STREAM CENTERLINE","perennial",323.238519769172
+"1349","Bolin Creek","STREAM CENTERLINE","perennial",373.259630583846
+"1350","Craigs Branch","STREAM","perennial",468.451972294214
+"1351","Bolin Creek","STREAM CENTERLINE","perennial",333.466632217223
+"1352","Cole Springs Branch","CULVERT","perennial",48.649075067723
+"1353","Bolin Creek","STREAM CENTERLINE","perennial",409.263266551336
+"1354","Phils Creek","STREAM","perennial",1050.98387588023
+"1355","Morgan Creek","STREAM CENTERLINE","perennial",221.315397157406
+"1356","Bolin Creek","STREAM CENTERLINE","perennial",371.389597584706
+"1357","Cole Springs Branch","STREAM","perennial",95.9960953343863
+"1358","Cole Springs Branch","STREAM","perennial",655.71707626207
+"1359","Bolin Creek","STREAM CENTERLINE","perennial",200.393658202166
+"1360","Crooked Creek","STREAM","intermittent",3078.48098211721
+"1361","Morgan Creek","STREAM CENTERLINE","perennial",581.208905366198
+"1362","Morgan Creek","STREAM CENTERLINE","perennial",79.9033919276502
+"1363","Cole Springs Branch","STREAM","perennial",1087.00529539238
+"1364","Cole Springs Branch","STREAM","perennial",518.844390902542
+"1365","Cole Springs Branch","STREAM","perennial",402.614899213065
+"1366","Cole Springs Branch","STREAM","perennial",124.627245100829
+"1367","Cole Springs Branch","STREAM","perennial",312.820969474381
+"1368","Hogan Creek","STREAM","perennial",208.62882174207
+"1369","Craigs Branch","STREAM","perennial",438.103129682875
+"1370","Cole Springs Branch","STREAM","perennial",122.879633840937
+"1371","Tracy Branch","STREAM CENTERLINE","perennial",93.0610782538153
+"1372","Booker Creek","STREAM CENTERLINE","perennial",12.6689192758441
+"1373","Hogan Creek","STREAM","perennial",508.301017297933
+"1374","Cole Springs Branch","STREAM","perennial",369.892336914193
+"1375","Hogan Creek","CULVERT","perennial",78.2670135722078
+"1376","Phils Creek","STREAM","perennial",991.973395725116
+"1377","Hogan Creek","STREAM","perennial",449.301806151665
+"1378","Northeast Creek","STREAM","perennial",3602.00610726203
+"1379","Hogan Creek","STREAM","perennial",1268.7345354692
+"1380","Bolin Creek","STREAM","perennial",51.7311074256498
+"1381","Bolin Creek","STREAM CENTERLINE","perennial",1246.9080833429
+"1382","Northeast Creek","STREAM","perennial",37.1760711280831
+"1383","Cole Springs Branch","STREAM","perennial",607.483636608754
+"1384","Bolin Creek","STREAM CENTERLINE","perennial",553.302383762253
+"1385","Bolin Creek","STREAM CENTERLINE","perennial",119.961230226343
+"1386","Bolin Creek","STREAM","perennial",240.228291760528
+"1387","Northeast Creek","STREAM","perennial",95.1699197181212
+"1388","Bolin Creek","STREAM CENTERLINE","perennial",11.851613930976
+"1389","Bolin Creek","STREAM CENTERLINE","perennial",194.555739858227
+"1390","Bolin Creek","STREAM","perennial",9.12522798072268
+"1391","Morgan Creek","STREAM CENTERLINE","perennial",897.369609869938
+"1392","Bolin Creek","STREAM CENTERLINE","perennial",80.3892867193084
+"1393","Bolin Creek","STREAM","perennial",5.02623252279257
+"1394","Phils Creek","STREAM","intermittent",1107.23128026909
+"1395","Bolin Creek","STREAM CENTERLINE","perennial",87.3033987287623
+"1396","Bolin Creek","STREAM","perennial",16.1362872619173
+"1397","Hogan Creek","STREAM","perennial",95.62102417454
+"1398","Craigs Branch","STREAM","perennial",721.905006994459
+"1399","Hogan Creek","STREAM","perennial",520.234065462434
+"1400","Bolin Creek","STREAM CENTERLINE","perennial",54.4372956918663
+"1401","Bolin Creek","STREAM CENTERLINE","perennial",35.2152704438195
+"1402","Hogan Creek","CULVERT","perennial",38.9703479153991
+"1403","Bolin Creek","STREAM CENTERLINE","perennial",61.8824420440822
+"1404","Hogan Creek","STREAM","perennial",229.983090493149
+"1405","Phils Creek","STREAM","intermittent",719.711706146954
+"1406","Phils Creek","STREAM","intermittent",2472.01541171974
+"1407","Hogan Creek","STREAM","perennial",152.965271226287
+"1408","Booker Creek","STREAM CENTERLINE","perennial",606.667135668704
+"1409","Hogan Creek","CULVERT","intermittent",62.0391951218518
+"1410","Bolin Creek","STREAM CENTERLINE","perennial",808.865437745554
+"1411","Hogan Creek","STREAM","intermittent",448.442358487842
+"1412","Hogan Creek","STREAM","intermittent",142.725206669961
+"1413","Bolin Creek","STREAM CENTERLINE","perennial",626.910128297949
+"1414","Hogan Creek","STREAM","intermittent",713.676465447409
+"1415","Bolin Creek","STREAM CENTERLINE","perennial",148.968877228656
+"1416","Booker Creek","STREAM CENTERLINE","perennial",784.011491011695
+"1417","Hogan Creek","STREAM","intermittent",336.260982137303
+"1418","Northeast Creek","STREAM","perennial",2251.02054655961
+"1419","Morgan Creek","STREAM","perennial",317.603105433382
+"1420","Hogan Creek","STREAM","intermittent",680.901532429648
+"1421","Morgan Creek","STREAM CENTERLINE","perennial",149.556624344053
+"1422","Bolin Creek","STREAM CENTERLINE","perennial",577.915246710223
+"1423","Booker Creek","STREAM CENTERLINE","perennial",217.84567260003
+"1424","Morgan Creek","STREAM","perennial",1058.99957835646
+"1425","Bolin Creek","STREAM CENTERLINE","perennial",539.257178679358
+"1426","Crow Branch","STREAM","perennial",1017.28452119948
+"1427","Northeast Creek","STREAM","perennial",1360.93397483394
+"1428","Morgan Creek","CULVERT","perennial",135.887995280626
+"1429","Morgan Creek","STREAM CENTERLINE","perennial",94.2244837364146
+"1430","Booker Creek","STREAM CENTERLINE","perennial",90.406632607945
+"1431","Crow Branch","STREAM","perennial",752.300103273496
+"1432","Booker Creek","STREAM CENTERLINE","perennial",929.571946104259
+"1433","Crow Branch","STREAM","perennial",652.526900297807
+"1434","Crow Branch","STREAM","perennial",183.068974096096
+"1435","Booker Creek","STREAM CENTERLINE","perennial",409.633077077472
+"1436","Bolin Creek","STREAM CENTERLINE","perennial",460.88336465715
+"1437","Morgan Creek","STREAM","perennial",880.942976543438
+"1438","Booker Creek","STREAM CENTERLINE","perennial",163.965221779879
+"1439","Booker Creek","STREAM CENTERLINE","perennial",328.067440533764
+"1440","Eastwood Lake","LAKE FLOWLINE","N/A",86.0706878110931
+"1441","Eastwood Lake","LAKE FLOWLINE","N/A",114.995805414301
+"1442","Bolin Creek","STREAM CENTERLINE","perennial",380.142428466297
+"1443","Booker Creek","STREAM","perennial",157.128051411175
+"1444","Booker Creek","STREAM CENTERLINE","perennial",952.299131897861
+"1445","Morgan Creek","STREAM CENTERLINE","perennial",3.96410491361241
+"1446","Eastwood Lake","LAKE FLOWLINE","N/A",294.659847227402
+"1447","Eastwood Lake","LAKE FLOWLINE","N/A",235.921203692815
+"1448","Bolin Creek","STREAM","perennial",410.442473899441
+"1449","Jolly Branch","STREAM","perennial",988.829294058078
+"1450","Booker Creek","STREAM CENTERLINE","perennial",321.340646857579
+"1451","Bolin Creek","STREAM CENTERLINE","perennial",406.986734686877
+"1452","Booker Creek","STREAM CENTERLINE","perennial",362.723695129695
+"1453","Crow Branch","STREAM","perennial",768.632857386315
+"1454","Crow Branch","STREAM","perennial",6.88277461219505
+"1455","Booker Creek","STREAM CENTERLINE","perennial",223.30768296455
+"1456","Booker Creek","STREAM CENTERLINE","perennial",1403.27818246106
+"1457","Bolin Creek","STREAM CENTERLINE","perennial",51.1677853652558
+"1458","Booker Creek","STREAM","intermittent",192.684256717575
+"1459","Crow Branch","CULVERT","perennial",123.45501067241
+"1460","Bolin Creek","STREAM CENTERLINE","perennial",79.2900281882252
+"1461","Bolin Creek","STREAM CENTERLINE","perennial",20.1602436813328
+"1462","Bolin Creek","STREAM CENTERLINE","perennial",307.50318789523
+"1463","Morgan Creek","STREAM","perennial",1629.41001956536
+"1464","Bolin Creek","STREAM CENTERLINE","perennial",49.55424048372
+"1465","Crow Branch","STREAM","perennial",798.09435847766
+"1466","Eastwood Lake","LAKE FLOWLINE","N/A",455.639167426952
+"1467","Crow Branch","STREAM","perennial",838.061584185896
+"1468","Eastwood Lake","LAKE FLOWLINE","N/A",202.539175468055
+"1469","Bolin Creek","STREAM CENTERLINE","perennial",279.130717276561
+"1470","Crow Branch","STREAM","perennial",299.298684422678
+"1471","Booker Creek","STREAM","perennial",237.883270097946
+"1472","Crow Branch","STREAM","perennial",413.762842547511
+"1473","Jolly Branch","STREAM","perennial",1365.26363278634
+"1474","Eastwood Lake","LAKE FLOWLINE","N/A",558.964942849615
+"1475","Eastwood Lake","LAKE FLOWLINE","N/A",301.040407694647
+"1476","Booker Creek","STREAM","perennial",482.574136651067
+"1477","Jolly Branch","STREAM","ephemeral",179.561207656679
+"1478","Eastwood Lake","LAKE FLOWLINE","N/A",205.959832614539
+"1479","Bolin Creek","STREAM CENTERLINE","perennial",1189.09212240894
+"1480","Booker Creek","STREAM CENTERLINE","perennial",1168.2762559452
+"1481","Crow Branch","STREAM","perennial",650.05911191474
+"1482","Booker Creek","STREAM","perennial",37.5725774898281
+"1483","Morgan Creek","STREAM","perennial",164.422767081908
+"1484","Bolin Creek","STREAM CENTERLINE","perennial",70.4312333239528
+"1485","Northeast Creek","STREAM","perennial",2765.3241364572
+"1486","Jolly Branch","STREAM","perennial",550.315395921281
+"1487","Northeast Creek","STREAM","perennial",176.051694488562
+"1488","Eastwood Lake","LAKE FLOWLINE","N/A",746.470148036073
+"1489","Bolin Creek","STREAM CENTERLINE","perennial",796.203623103765
+"1490","Booker Creek","STREAM CENTERLINE","perennial",649.891557237992
+"1491","Booker Creek","STREAM","perennial",782.162289071803
+"1492","Eastwood Lake","LAKE FLOWLINE","N/A",419.104162718681
+"1493","Bolin Creek","STREAM CENTERLINE","perennial",155.133744113881
+"1494","Lake Ellen","LAKE FLOWLINE","N/A",902.777314630607
+"1495","Eastwood Lake","LAKE FLOWLINE","N/A",560.109878116975
+"1496","Eastwood Lake","LAKE FLOWLINE","N/A",251.956412034011
+"1497","Eastwood Lake","LAKE FLOWLINE","N/A",210.982787056819
+"1498","Lake Ellen","LAKE FLOWLINE","N/A",203.62639873965
+"1499","Northeast Creek","STREAM","perennial",614.118751118901
+"1500","Eastwood Lake","LAKE FLOWLINE","N/A",659.751350753429
+"1501","Kings Branch","STREAM","perennial",167.018875882452
+"1502","Lake Ellen","LAKE FLOWLINE","N/A",48.3130049288707
+"1503","Kings Branch","STREAM","perennial",1142.75395425734
+"1504","Greene Branch","STREAM","perennial",225.601227067254
+"1505","Bolin Creek","STREAM CENTERLINE","perennial",477.860417008933
+"1506","Lake Ellen","LAKE FLOWLINE","N/A",763.633006933892
+"1507","Lake Ellen","LAKE FLOWLINE","N/A",75.8911172542208
+"1508","Northeast Creek","STREAM","perennial",331.479576507477
+"1509","Bolin Creek","STREAM CENTERLINE","perennial",180.691233516965
+"1510","Bolin Creek","STREAM","perennial",136.638771405431
+"1511","Third Fork Creek","STREAM","perennial",192.122189949875
+"1512","Bolin Creek","STREAM","perennial",20.1857089938808
+"1513","Bolin Creek","STREAM","perennial",234.793785088928
+"1514","Bolin Creek","STREAM","perennial",209.105321976007
+"1515","Bolin Creek","STREAM","perennial",250.897806555091
+"1516","Morgan Creek","STREAM","perennial",1510.97147760341
+"1517","Booker Creek","STREAM","perennial",438.942638037896
+"1518","Morgan Creek","STREAM","perennial",50.3099456677159
+"1519","Crow Branch","STREAM","intermittent",438.801826237604
+"1520","Bolin Creek","STREAM","perennial",178.679295311762
+"1521","Bolin Creek","CULVERT","perennial",61.472723159309
+"1522","Bolin Creek","STREAM","perennial",13.6336112880614
+"1523","Bolin Creek","STREAM CENTERLINE","perennial",347.649870830923
+"1524","Bolin Creek","STREAM CENTERLINE","perennial",90.5552322772647
+"1525","Bolin Creek","STREAM CENTERLINE","perennial",37.2001794222184
+"1526","Cedar Fork","STREAM","perennial",474.989041035445
+"1527","Booker Creek","STREAM","perennial",300.011961698154
+"1528","Booker Creek","STREAM","perennial",1020.9048351864
+"1529","Cedar Fork","STREAM","perennial",861.871942077233
+"1530","Bolin Creek","STREAM","perennial",377.545611613535
+"1531","Bolin Creek","STREAM","perennial",445.356263098861
+"1532","Booker Creek","STREAM","perennial",359.361547298103
+"1533","Bolin Creek","STREAM","perennial",533.666339626795
+"1534","Booker Creek","STREAM","perennial",51.3878307001204
+"1535","Booker Creek","STREAM","perennial",131.545429576869
+"1536","Morgan Creek","STREAM","perennial",575.599900503127
+"1537","Eastwood Lake","LAKE FLOWLINE","N/A",1344.94365738615
+"1538","Cedar Fork","STREAM","perennial",341.844313456681
+"1539","Bolin Creek","STREAM CENTERLINE","perennial",499.757046083305
+"1540","Cedar Fork","STREAM","perennial",194.126682676139
+"1541","Third Fork Creek","STREAM","perennial",1077.44121674273
+"1542","Bolin Creek","STREAM CENTERLINE","perennial",334.200171328686
+"1543","Bolin Creek","STREAM","perennial",118.374836771187
+"1544","Bolin Creek","STREAM CENTERLINE","perennial",107.727711170823
+"1545","Bolin Creek","STREAM CENTERLINE","perennial",75.9829319997385
+"1546","Cedar Fork","STREAM","perennial",394.558308764403
+"1547","Northeast Creek","STREAM","perennial",1513.44911499472
+"1548","Bolin Creek","STREAM CENTERLINE","perennial",165.379222848564
+"1549","Bolin Creek","STREAM","perennial",157.081917536022
+"1550","Tanyard Branch","STREAM","perennial",139.527278852675
+"1551","Booker Creek","STREAM","perennial",965.895707648898
+"1552","Tanyard Branch","STREAM","perennial",70.3166028670146
+"1553","Bolin Creek","STREAM CENTERLINE","perennial",396.420524239369
+"1554","Booker Creek","STREAM","perennial",54.175414788876
+"1555","Morgan Creek","STREAM","perennial",1004.38378254807
+"1556","Bolin Creek","STREAM CENTERLINE","perennial",590.021630876446
+"1557","Bolin Creek","STREAM CENTERLINE","perennial",200.072238434277
+"1558","Bolin Creek","STREAM CENTERLINE","perennial",1166.90671815638
+"1559","Bolin Creek","STREAM CENTERLINE","perennial",406.799068918733
+"1560","Bolin Creek","STREAM CENTERLINE","perennial",110.387701571149
+"1561","Bolin Creek","STREAM CENTERLINE","perennial",199.157206602875
+"1562","East Branch","CULVERT","perennial",56.4519083789832
+"1563","Third Fork Creek","STREAM","perennial",1666.24853790485
+"1564","Dry Creek","STREAM","perennial",30.6045789524091
+"1565","Dry Creek","CULVERT","perennial",331.813722851232
+"1566","East Branch","STREAM","perennial",675.06612783239
+"1567","Jones Creek","STREAM","perennial",427.33406350774
+"1568","Jones Creek","STREAM","perennial",238.453493884227
+"1569","Dixie Branch","STREAM","perennial",257.355013193661
+"1570","Cedar Fork","STREAM","perennial",184.951291642879
+"1571","Morgan Creek","STREAM","perennial",1130.41277310687
+"1572","Jones Creek","STREAM","perennial",376.623766902541
+"1573","Cedar Fork","STREAM","perennial",226.466083571351
+"1574","Dixie Branch","STREAM","perennial",314.431316487346
+"1575","Dry Creek","STREAM CENTERLINE","perennial",806.756913607851
+"1576","Dry Creek","STREAM","perennial",119.738498701466
+"1577","Dry Creek","STREAM CENTERLINE","perennial",391.784044529352
+"1578","Jones Creek","STREAM","perennial",231.645452118305
+"1579","Dry Creek","STREAM CENTERLINE","perennial",349.180029376472
+"1580","Buckhorn Branch","STREAM","intermittent",435.775818548807
+"1581","Morgan Creek","STREAM","perennial",633.895192077548
+"1582","Jones Creek","STREAM","perennial",86.5952064004848
+"1583","Buckhorn Branch","STREAM","intermittent",241.529457795248
+"1584","Jones Creek","STREAM","perennial",338.070064513943
+"1585","Jones Creek","STREAM","perennial",67.1660463531106
+"1586","Jones Creek","STREAM","perennial",48.4784369858639
+"1587","Jones Creek","STREAM","perennial",111.727233676911
+"1588","Jones Creek","STREAM","perennial",338.739192269445
+"1589","Cedar Fork","STREAM","perennial",415.107142054186
+"1590","Jones Creek","STREAM","perennial",255.29319532398
+"1591","Dry Creek","STREAM","perennial",459.909112875893
+"1592","Buckhorn Branch","STREAM","intermittent",419.24697332997
+"1593","Buckhorn Branch","STREAM","intermittent",91.789549895775
+"1594","Northeast Creek","STREAM","perennial",2156.02508538792
+"1595","Buckhorn Branch","STREAM","intermittent",454.656703892149
+"1596","Dry Creek","STREAM","perennial",524.86914441494
+"1597","Booker Creek","STREAM","perennial",80.3666628981403
+"1598","Dry Creek","CULVERT","perennial",76.6777220192063
+"1599","Bolin Creek","STREAM","perennial",76.7241759040696
+"1600","Cedar Fork","STREAM","perennial",394.558689938665
+"1601","Booker Creek","STREAM","perennial",247.379266885878
+"1602","Bolin Creek","STREAM","perennial",229.758126419226
+"1603","Jones Creek","STREAM","perennial",509.654066099037
+"1604","Bolin Creek","STREAM","perennial",127.539670627136
+"1605","Cedar Fork","STREAM","perennial",289.343386645022
+"1606","Dry Creek","STREAM CENTERLINE","perennial",1833.88215682868
+"1607","Buckhorn Branch","STREAM","intermittent",691.026676943485
+"1608","Bolin Creek","STREAM","perennial",242.204531481621
+"1609","Cedar Fork","STREAM","perennial",215.140778170203
+"1610","Dry Creek","STREAM","perennial",200.217874346858
+"1611","Dry Creek","STREAM CENTERLINE","perennial",859.69372451865
+"1612","Bolin Creek","STREAM","perennial",360.469085473581
+"1613","Jones Creek","STREAM","perennial",635.126600520015
+"1614","Third Fork Creek","STREAM","perennial",2987.6437641976
+"1615","Bolin Creek","STREAM","perennial",184.003371642343
+"1616","Booker Creek","STREAM","perennial",983.79524655042
+"1617","Buckhorn Branch","STREAM","intermittent",813.584354904889
+"1618","Morgan Creek","STREAM","perennial",514.014420177624
+"1619","Buckhorn Branch","STREAM","intermittent",212.473253879732
+"1620","Jones Creek","STREAM","perennial",279.455626816788
+"1621","Bolin Creek","STREAM","intermittent",235.976299611114
+"1622","Morgan Creek","STREAM","perennial",124.724826100825
+"1623","Buckhorn Branch","STREAM","intermittent",542.159365451953
+"1624","Buckhorn Branch","CULVERT","intermittent",35.8919540172736
+"1625","Buckhorn Branch","STREAM","intermittent",12.1461664170908
+"1626","Jones Creek","STREAM","perennial",278.694891197037
+"1627","Cedar Fork","CULVERT","perennial",80.6910819603755
+"1628","Cedar Fork","STREAM","perennial",281.236560585889
+"1629","Cedar Fork","CULVERT","perennial",30.7093958832468
+"1630","Cedar Fork","STREAM","perennial",929.941014249291
+"1631","Bolin Creek","STREAM","intermittent",523.117313414863
+"1632","Third Fork Creek","STREAM","perennial",1988.10778143806
+"1633","Northeast Creek","STREAM","intermittent",1098.60744742481
+"1634","Morgan Creek","STREAM","perennial",805.924282290808
+"1635","Morgan Creek","STREAM","perennial",896.966077128747
+"1636","Morgan Creek","STREAM","perennial",40.4222058464618
+"1637","Morgan Creek","STREAM","perennial",304.517743790546
+"1638","Jones Creek","STREAM","perennial",760.275417676714
+"1639","Third Fork Creek","STREAM","perennial",722.962197808028
+"1640","Third Fork Creek","STREAM","perennial",1879.30019090076
+"1641","Jones Creek","STREAM","perennial",546.613566659631
+"1642","Cedar Fork","STREAM","perennial",243.803126856416
+"1643","Cedar Fork","STREAM","perennial",73.3014075604496
+"1644","Cedar Fork","STREAM","perennial",391.24279541828
+"1645","Jones Creek","STREAM","perennial",1641.63162022317
+"1646","Cedar Fork","CULVERT","perennial",87.214886299625
+"1647","Cedar Fork","CULVERT","perennial",153.069966547071
+"1648","Jones Creek","STREAM","perennial",426.671139615118
+"1649","Jones Creek","STREAM","perennial",69.9272788473062
+"1650","Jones Creek","CULVERT","perennial",96.2935224905602
+"1651","New Hope Creek","STREAM CENTERLINE","perennial",676.155142138533
+"1652","New Hope Creek","STREAM CENTERLINE","perennial",624.812947911086
+"1653","Bolin Creek","CULVERT","intermittent",61.2470231954831
+"1654","Bolin Creek","STREAM","intermittent",343.885855698857
+"1655","Jones Creek","STREAM","intermittent",434.466210251349
+"1656","Jones Creek","STREAM","unknown",5.79598967799002
+"1657","Jones Creek","DITCH","N/A",5.67630720351413
+"1658","Jones Creek","DITCH","N/A",0.984744734688224
+"1659","Jones Creek","STREAM","unknown",1.03837771243438
+"1660","New Hope Creek","STREAM CENTERLINE","perennial",789.20642299885
+"1661","Jones Creek","STREAM","intermittent",249.015836340546
+"1662","New Hope Creek","STREAM CENTERLINE","perennial",1435.27391618418
+"1663","Third Fork Creek","STREAM","perennial",3879.3619999846
+"1664","Bolin Creek","STREAM","intermittent",897.65402640922
+"1665","Morgan Creek","STREAM","perennial",3315.99362922635
+"1666","Jones Creek","STREAM","intermittent",1493.67718051067
+"1667","Bolin Creek","STREAM","intermittent",375.564820196721
+"1668","Jones Creek","CULVERT","intermittent",70.8216286981934
+"1669","Third Fork Creek","STREAM","perennial",917.281795177569
+"1670","Jones Creek","STREAM","intermittent",494.941035608439
+"1671","Third Fork Creek","STREAM","perennial",808.80399275593
+"1672","Allens Branch","STREAM","unknown",482.906695525821
+"1673","Third Fork Creek","STREAM","perennial",716.464702500609
+"1674","Third Fork Creek","STREAM","perennial",2058.33412190274
+"1675","Old Field Creek","STREAM","perennial",103.328735567119
+"1676","Old Field Creek","CULVERT","perennial",141.958498519319
+"1677","Old Field Creek","STREAM","perennial",166.857648447755
+"1678","Morgan Creek","STREAM","perennial",1338.36345354389
+"1679","New Hope Creek","STREAM CENTERLINE","perennial",3634.08096553804
+"1680","Morgan Creek","STREAM","perennial",726.903289509245
+"1681","Jones Creek","STREAM","intermittent",922.092460218887
+"1682","Third Fork Creek","STREAM","perennial",2834.45348264512
+"1683","Old Field Creek","STREAM","perennial",1154.44473258755
+"1684","Third Fork Creek","STREAM","intermittent",1061.01816016105
+"1685","New Hope Creek","STREAM CENTERLINE","perennial",1534.78066076696
+"1686","Old Field Creek","STREAM","perennial",246.241222390388
+"1687","Jones Creek","STREAM","ephemeral",830.363159142564
+"1688","Church Branch","STREAM","intermittent",3075.72077758672
+"1689","Old Field Creek","STREAM","perennial",562.180691381939
+"1690","Old Field Creek","STREAM","perennial",404.598551452564
+"1691","New Hope Creek","STREAM CENTERLINE","perennial",981.874234284569
+"1692","Old Field Creek","STREAM","perennial",740.965513115007
+"1693","Cedar Fork","STREAM","perennial",181.640393144865
+"1694","Old Field Creek","CULVERT","perennial",340.103408969204
+"1695","Old Field Creek","STREAM","perennial",1374.23379742957
+"1696","Morgan Creek","STREAM","intermittent",2077.47051951327
+"1697","Old Field Creek","STREAM","perennial",684.558490592911
+"1698","Old Field Creek","STREAM","perennial",102.470260796226
+"1699","Old Field Creek","STREAM","perennial",51.8167873754471
+"1700","Old Field Creek","STREAM","perennial",286.154714491102
+"1701","Old Field Creek","STREAM","perennial",677.651017703735
+"1702","Mountain Creek","STREAM","intermittent",3718.27037729631
+"1703","Tracy Branch","CULVERT","perennial",69.1640506336565
+"1704","Johnston Branch","STREAM","intermittent",3026.05530337412
+"1705","Sandy Creek","STREAM","perennial",1323.02964945648
+"1706","Johnston Branch","STREAM","perennial",1768.98540431486
+"1707","Old Field Creek","STREAM","perennial",3119.73199726935
+"1708","Allens Branch","STREAM","perennial",4502.20610564704
+"1709","Mountain Creek","STREAM","perennial",2879.20056126711
+"1710","New Hope Creek","STREAM","perennial",1929.04114082907
+"1711","New Hope Creek","STREAM","perennial",2147.9824424568
+"1712","Allens Branch","STREAM","perennial",877.235984421244
+"1713","New Hope Creek","STREAM","perennial",2382.3491657658
+"1714","Long Branch","STREAM","perennial",797.7679848241
+"1715","Long Branch","STREAM","perennial",627.354489983347
+"1716","Long Branch","STREAM","perennial",2167.69991466261
+"1717","Old Field Creek","STREAM","perennial",3595.43381156756
+"1718","Long Branch","STREAM","perennial",542.161037832778
+"1719","New Hope Creek","STREAM","perennial",45.9716014192471
+"1720","New Hope Creek","STREAM","perennial",99.0508878670676
+"1721","Booth Branch","STREAM","intermittent",2740.77200707757
+"1722","Long Branch","STREAM","intermittent",9338.01396207932
+"1723","Mountain Creek","STREAM","perennial",5439.87021691025
+"1724","Long Branch","STREAM","perennial",4111.72698163385
+"1725","New Hope Creek","STREAM","perennial",244.833560589595
+"1726","Garrett Branch","STREAM","intermittent",3258.12871334526
+"1727","Mud Creek","STREAM","perennial",866.579995042739
+"1728","Mud Creek","STREAM","perennial",308.842764567703
+"1729","New Hope Creek","STREAM","perennial",1088.81907285106
+"1730","New Hope Creek","STREAM","perennial",1644.68729110557
+"1731","New Hope Creek","STREAM","perennial",1153.36052577195
+"1732","New Hope Creek","STREAM","perennial",877.130920620385
+"1733","New Hope Creek","STREAM","perennial",1631.1984761023
+"1734","Mud Creek","STREAM","perennial",2171.36306512766
+"1735","Pine Mountain Creek","STREAM","perennial",1695.18802300653
+"1736","New Hope Creek","STREAM","perennial",2236.04576992534
+"1737","Mud Creek","STREAM","perennial",331.768429129915
+"1738","Pine Mountain Creek","STREAM","perennial",163.742640357365
+"1739","New Hope Creek","STREAM","perennial",210.217735865082
+"1740","New Hope Creek","STREAM","perennial",600.842952271442
+"1741","New Hope Creek","STREAM","perennial",2467.95869426033
+"1742","New Hope Creek","STREAM","perennial",1657.55955506726
+"1743","New Hope Creek","STREAM","perennial",3420.17062944626
+"1744","Pine Mountain Creek","STREAM","perennial",1526.84121211815
+"1745","Pine Mountain Creek","STREAM","perennial",409.968302921371
+"1746","New Hope Creek","STREAM","perennial",5339.13193810769
+"1747","Pine Mountain Creek","STREAM","perennial",233.318635788541
+"1748","Steep Bottom Branch","STREAM","intermittent",2258.51667339034
+"1749","New Hope Creek","STREAM","perennial",3811.93683272864
+"1750","Pine Mountain Creek","STREAM","intermittent",4487.79196233002
+"1751","Steep Bottom Branch","STREAM","intermittent",718.951934303303
+"1752","Pine Mountain Creek","STREAM","intermittent",959.655494915081
+"1753","New Hope Creek","STREAM","perennial",1309.43096675797
+"1754","Pine Mountain Creek","STREAM","perennial",1770.93511939732
+"1755","Pine Mountain Creek","STREAM","perennial",338.874272653729
+"1756","Pine Mountain Creek","STREAM","perennial",2206.72833146404
+"1757","New Hope Creek","STREAM","perennial",1198.50836295324
+"1758","Pine Mountain Creek","STREAM","perennial",1996.50169917968
+"1759","Steep Bottom Branch","STREAM","intermittent",3501.50367828007
+"1760","Pine Mountain Creek","STREAM","perennial",2322.47099849139
+"1761","New Hope Creek","STREAM","intermittent",1043.40634748661
+"1762","New Hope Creek","STREAM","intermittent",414.870827666465
+"1763","New Hope Creek","STREAM","intermittent",621.492560170916
+"1764","Mill Race Branch","CULVERT","perennial",480.740224337449
+"1765","Cedar Fork","STREAM","perennial",151.293767683788
+"1766","Bolin Creek","CULVERT","perennial",65.8680029249356
+"1767","Bolin Creek","STREAM CENTERLINE","perennial",455.805749408335
+"1768","Little Creek","STREAM CENTERLINE","perennial",573.967266384011
+"1769","Little Creek","STREAM CENTERLINE","perennial",828.607832620453
+"1770","Little Creek","STREAM CENTERLINE","perennial",216.719535884501
+"1771","Little Creek","STREAM CENTERLINE","perennial",285.974687946243
+"1772","Meeting of the Waters","STREAM CENTERLINE","perennial",516.838119441196
+"1773","Meeting of the Waters","STREAM CENTERLINE","perennial",121.538146954498
+"1774","Morgan Creek","STREAM CENTERLINE","perennial",131.660340188938
+"1775","Morgan Creek","STREAM CENTERLINE","perennial",693.792563826978
+"1776","Battle Branch","STREAM","perennial",130.584859390808
+"1777","Shetley Branch","STREAM","intermittent",360.274069106913
+"1778","Allens Branch","STREAM","unknown",495.557178521121
+"1779","Allens Branch","CULVERT","unknown",112.080469612832
+"1780","Allens Branch","STREAM","unknown",121.791069791241
+"1781","Allens Branch","CULVERT","unknown",121.335158260972
+"1782","Allens Branch","STREAM","unknown",881.801957246735
+"1783","Allens Branch","CULVERT","unknown",85.9420211987991
+"1784","Allens Branch","STREAM","unknown",1163.13725912017
+"1785","Allens Branch","STREAM","unknown",201.716703539275
+"1786","Buck Branch","STREAM","intermittent",95.2202155495101
+"1787","Buck Branch","STREAM","intermittent",40.0884559308811
+"1788","Buck Branch","STREAM","perennial",222.562943392749
+"1789","Buck Branch","STREAM","perennial",27.9532597400309
+"1790","Buck Branch","STREAM","perennial",72.9581608427041
+"1791","Obeys Creek","STREAM","ephemeral",339.285538320461
+"1792","Bolin Creek","STREAM","perennial",268.787621952579
+"1793","Bolin Creek","STREAM","intermittent",806.382911575676
+"1794","Bolin Creek","STREAM","intermittent",406.632636074411
+"1795","Buckhorn Branch","STREAM","intermittent",74.3971037842007
+"1796","Buckhorn Branch","STREAM","intermittent",2454.35638474934
+"1797","Mountain Creek","CULVERT","perennial",53.9599736247684
+"1798","New Hope Creek","STREAM","perennial",1160.44191526229
+"1799","New Hope Creek","STREAM","perennial",1369.58926335978
+"1800","New Hope Creek","CULVERT","perennial",281.133940542826
+"1801","New Hope Creek","STREAM","perennial",4002.27239359152
+"1802","New Hope Creek","STREAM","perennial",725.954623430237
+"1803","Cedar Fork","STREAM","perennial",205.464933910397
+"1804","Cedar Fork","STREAM","perennial",489.828033472404
+"1805","Cedar Fork","CULVERT","perennial",57.3538179734124
+"1806","Bolin Creek","STREAM CENTERLINE","perennial",186.102084353349
+"1807","Bolin Creek","CULVERT","perennial",56.0091759919647
+"1808","Obeys Creek","STREAM","perennial",491.303846889366
+"1809","Tilley's Branch","STREAM","intermittent",345.814472576734
+"1810","Tilley's Branch","STREAM","intermittent",131.047966431497
+"1811","Tilley's Branch","STREAM","intermittent",871.96067613801
+"1812","Tilley's Branch","STREAM","intermittent",516.28059439174
+"1813","Tilley's Branch","STREAM","intermittent",861.380313740654
+"1814","Tilley's Branch","STREAM","intermittent",158.002334242756
+"1815","Tilley's Branch","STREAM","intermittent",210.213038601793
+"1816","Tilley's Branch","STREAM","intermittent",350.151525261032
+"1817","Tilley's Branch","STREAM","intermittent",637.220985021632
+"1818","Tilley's Branch","STREAM","intermittent",440.069626702208
+"1819","Tilley's Branch","STREAM","intermittent",334.233870987992
+"1820","Tilley's Branch","STREAM","intermittent",982.616731069976
+"1821","Pritchard Branch","STREAM","perennial",563.439552786845
+"1822","Pritchard Branch","STREAM","perennial",471.364400805923
+"1823","Battle Branch","STREAM","perennial",158.71535401315
+"1824","Dixie Branch","STREAM","perennial",217.58347081372
+"1825","Wilson Creek","CULVERT","perennial",40.6478270973983
+"1826","Wilson Creek","STREAM","perennial",141.063474242041
+"1827","Wilson Creek","CULVERT","perennial",79.5189013463773
+"1828","Wilson Creek","STREAM","perennial",263.516700305535
+"1829","Third Fork Creek","STREAM CENTERLINE","perennial",771.202143600038
+"1830","Sandy Creek","STREAM CENTERLINE","perennial",1739.68249465915
+"1831","Little Creek","STREAM","intermittent",324.800181361655
+"1832","Buck Branch","STREAM","perennial",534.875643385828
+"1833","Buck Branch","STREAM","perennial",1121.57486151256
+"1834","Chapel Branch","CULVERT","perennial",40.9174481060917
+"1835","Chapel Branch","STREAM","perennial",488.32202283728
+"1836","Chapel Branch","STREAM","perennial",1321.72298048696
+"1837","New Hope Creek","STREAM CENTERLINE","perennial",889.125218598373
+"1838","Dry Creek","STREAM","perennial",782.538336376948
+"1839","Dry Creek","STREAM","perennial",462.313999416496
+"1840","Dry Creek","STREAM","perennial",798.469539865595
+"1841","Dry Creek","STREAM","perennial",528.294948123409
+"1842","Dry Creek","STREAM","perennial",202.247515814026
+"1843","Dry Creek","STREAM","perennial",225.921668793323
+"1844","Dry Creek","STREAM","perennial",662.037552502611
+"1845","Dry Creek","STREAM","perennial",550.405565523912
+"1846","Dry Creek","STREAM","perennial",1355.22360521598
+"1847","New Hope Creek","STREAM","intermittent",924.514334613364
+"1848","New Hope Creek","STREAM","intermittent",1189.75554507354
+"1849","Dry Creek","STREAM","perennial",1123.00493300204
+"1850","Third Fork Creek","STREAM","perennial",3580.51039878195
+"1851","Third Fork Creek","STREAM","perennial",1826.24111048444
+"1852","Sandy Creek","STREAM","perennial",1256.39733995803
+"1853","Sandy Creek","STREAM","perennial",137.956579771345
+"1854","Sandy Creek","STREAM","perennial",1947.80482129859
+"1855","Booker Creek","CULVERT","perennial",64.4287739095004
+"1856","Booker Creek","STREAM","perennial",433.306644141004
+"1857","Booker Creek","STREAM","perennial",415.385984666504
+"1858","Booker Creek","STREAM","perennial",1868.82307282591
+"1859","East Branch","STREAM","perennial",49.227611868588
+"1860","Dixie Branch","CULVERT","perennial",105.069922609446
+"1861","Booker Creek","CULVERT","perennial",143.155333871943
+"1862","Dixie Branch","STREAM","perennial",181.727183520158
+"1863","Booker Creek","STREAM","perennial",347.370653032049
+"1864","Booker Creek","STREAM","perennial",145.213363907269
+"1865","Dixie Branch","STREAM","perennial",358.273743443013
+"1866","Morgan Creek","STREAM","perennial",482.841625497513
+"1867","Little Creek","STREAM","intermittent",509.565504612869
+"1868","Little Creek","STREAM","perennial",1119.26153410047
+"1869","Little Creek","STREAM","intermittent",1063.58295581253
+"1870","Little Creek","STREAM","intermittent",429.553297422526
+"1871","New Hope Creek","STREAM","perennial",1145.21642274338
+"1872","New Hope Creek","STREAM CENTERLINE","perennial",83.6844264399357
+"1873","New Hope Creek","STREAM","perennial",1285.30842566042
+"1874","New Hope Creek","STREAM CENTERLINE","perennial",102.01543884877
+"1875","New Hope Creek","STREAM","intermittent",123.487309738461
+"1876","New Hope Creek","STREAM","intermittent",983.97438031894
+"1877","Greene Branch","STREAM","intermittent",91.6158516497735
+"1878","Buck Branch","STREAM","perennial",99.0337320452039
+"1879","Price Creek","STREAM","perennial",280.083535277326
+"1880","West Branch Price Creek","STREAM","perennial",9042.33511756138
+"1881","Church Branch","CULVERT","perennial",61.1911547734051
+"1882","Sandy Creek","STREAM","perennial",3338.64976558902
+"1883","Church Branch","STREAM","perennial",1914.44892246413
+"1884","Mud Creek","STREAM","perennial",651.873696390999
+"1885","Mud Creek","STREAM","perennial",2812.36850024197
+"1886","Church Branch","STREAM","perennial",2224.25512999934
+"1887","Bolin Creek","STREAM CENTERLINE","perennial",718.26915268443
+"1888","Bolin Creek","STREAM CENTERLINE","perennial",12.7276964838553
+"1889","B Everett Jordan Lake","LAKE FLOWLINE","N/A",2273.65273351952
+"1890","B Everett Jordan Lake","LAKE FLOWLINE","N/A",219.747303910159
+"1891","B Everett Jordan Lake","LAKE FLOWLINE","N/A",699.611572617713
+"1892","Little Creek","STREAM CENTERLINE","perennial",2242.73318627392
+"1893","Chapel Spring Branch","STREAM","perennial",242.136677014269
+"1894","Morgan Creek","STREAM","perennial",1498.37909926535
+"1895","Morgan Creek","STREAM CENTERLINE","perennial",1064.5113044456
+"1896","Morgan Creek","STREAM","perennial",1731.47951370578
+"1897","New Hope Creek","STREAM","intermittent",4928.80897441045
+"1898","New Hope Creek","STREAM","intermittent",369.403851086318
+"1899","New Hope Creek","STREAM","perennial",2820.95819645006
+"1900","Pine Mountain Creek","STREAM","perennial",5009.64333872374
+"1901","New Hope Creek","STREAM","perennial",7397.23453049436
+"1902","New Hope Creek","STREAM","perennial",6743.29714381305
+"1903","Booker Creek","STREAM CENTERLINE","perennial",386.898165472803
+"1904","New Hope Creek","STREAM","perennial",1492.83653306973
+"1905","New Hope Creek","STREAM","perennial",3942.41223307571
+"1906","New Hope Creek","STREAM","perennial",8219.86139333592
+"1907","New Hope Creek","STREAM","perennial",5741.1909225712
+"1908","Toms Creek","CULVERT","perennial",54.4109048424121
+"1909","Neville Creek","STREAM CENTERLINE","perennial",321.60347737719
+"1910","Neville Creek","LAKE FLOWLINE","N/A",183.230836569397
+"1911","Cumbo Branch","STREAM","unknown",74.4808250115161
+"1912","Mill Race Branch","CULVERT","perennial",242.59009680619
+"1913","Tanyard Branch","STREAM","perennial",454.147333733533
+"1914","Pritchard Branch","STREAM","perennial",323.357194024436
+"1915","Cedar Fork","STREAM","perennial",206.64970920952
+"1916","Crow Branch","STREAM","perennial",626.440540640512
+"1917","Crow Branch","STREAM","intermittent",476.81172386283
+"1918","Crow Branch","STREAM","intermittent",382.428380352135
+"1919","Crow Branch","STREAM","perennial",168.541382188636
+"1920","Cedar Fork","STREAM","perennial",192.988132508337
+"1921","Cedar Fork","STREAM","perennial",99.8700798624181
+"1922","Cedar Fork","CULVERT","perennial",24.9486004125558
+"1923","Cedar Fork","STREAM","perennial",80.5461311007248
+"1924","Cedar Fork","CULVERT","perennial",31.4962065824614
+"1925","Buckhorn Branch","STREAM","ephemeral",239.305748283601
+"1926","TOMS CREEK","STREAM","ephemeral",136.23551347999
+"1927","TOMS CREEK","STREAM","ephemeral",187.588055909846
+"1928","Jones Creek","STREAM","intermittent",435.043420015403
+"1929","Jones Creek","CULVERT","intermittent",85.2023401067096
+"1930","Jones Creek","STREAM","perennial",140.876856809102
+"1931","Jones Creek","CULVERT","perennial",114.35523834171
+"1932","Mill Race Branch","STREAM","perennial",90.4989489783451
+"1933","Church Branch","STREAM","intermittent",301.448702900465
+"1934","Battle Branch","STREAM","perennial",201.923549882662
+"1935","Fan Branch","STREAM","perennial",252.086487554765
+"1936","Booker Creek","STREAM","perennial",391.122438860762
+"1937","Booker Creek","STREAM","perennial",117.589880236023
+"1938","Cedar Fork","CULVERT","unknown",670.851009069864
+"1939","Buck Branch","STREAM","intermittent",122.300576576733
+"1940","Fan Branch","CONNECTOR","N/A",43.4812673352684
+"1941","Mill Race Branch","STREAM","perennial",340.776739137614
+"1942","Crow Branch","STREAM","perennial",591.456841711696
+"1943","Crow Branch","CULVERT","perennial",15.7295776150531

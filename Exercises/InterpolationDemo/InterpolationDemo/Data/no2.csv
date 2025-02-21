@@ -1,0 +1,75 @@
+"","station_european_code","station_local_code","country_iso_code","country_name","station_name","station_start_date","station_end_date","type_of_station","station_ozone_classification","station_type_of_area","station_subcat_rural_back","street_type","station_longitude_deg","station_latitude_deg","station_altitude","station_city","lau_level1_code","lau_level2_code","lau_level2_name","EMEP_station","NO2"
+"1","DENI063","DENI063","DE","Germany","Altes Land",1999-02-11,NA,"Background","rural","rural","unknown",NA,9.685031,53.524181,3,NA,NA,3359028,"Jork","no",13.1028059044467
+"2","DEBY109","DEBY109","DE","Germany","Andechs/Rothenfeld",2003-04-17,NA,"Background","rural","rural","regional",NA,11.220172,47.968754,700,NA,NA,9188117,"Andechs","no",7.13512819679165
+"3","DEBE056","DEBE056","DE","Germany","B Friedrichshagen",1994-02-01,NA,"Background","rural","rural","near city",NA,13.64705,52.447697,35,NA,NA,1.1e+07,"Berlin, Stadt","no",12.7990107440876
+"4","DEBE062","DEBE062","DE","Germany","B Frohnau, Funkturm (3.5 m)",1996-02-01,NA,"Background","rural","rural","near city",NA,13.296081,52.653269,50,"BERLIN",NA,1.1e+07,"Berlin, Stadt","no",11.8308938898642
+"5","DEBE032","DEBE032","DE","Germany","B Grunewald (3.5 m)",1986-10-01,NA,"Background","rural","rural","near city",NA,13.225144,52.473192,50,"BERLIN",NA,1.1e+07,"Berlin, Stadt","no",11.9801102775554
+"6","DEHE046","DEHE046","DE","Germany","Bad Arolsen",1999-05-11,NA,"Background","rural","rural","unknown",NA,8.928172,51.430901,343,"BAD AROLSEN/KOHLGRUND",NA,6635002,"Bad Arolsen, Stadt","no",8.9356106627028
+"7","DEBY122","DEBY122","DE","Germany","Bad Hindelang/Oberjoch",2010-06-21,NA,"Background","rural","rural","regional",NA,10.404233,47.518013,1169,NA,NA,9780123,"Bad Hindelang, M","no",7.02068961963726
+"8","DESL019","DESL019","DE","Germany","Biringen",2003-02-01,NA,"Background","rural","rural","regional",NA,6.552036,49.416885,339,NA,NA,10044114,"Rehlingen-Siersburg","no",9.22679615705324
+"9","DENW081","DENW081","DE","Germany","Borken-Gemen",1998-09-11,NA,"Background","rural","rural","near city",NA,6.874553,51.862,45,"BORKEN",NA,5554012,"Borken, Stadt","no",18.7000234479462
+"10","DESH008","DESH008","DE","Germany","Bornhöved",1988-11-08,NA,"Background","rural","rural","regional",NA,10.240596,54.09323,45,NA,10575785,NA,"Ruhwinkel","no",9.15983632748024
+"11","DESN093","DESN093","DE","Germany","Brockau",2011-01-01,NA,"Background","rural","rural","regional",NA,12.211111,50.608135,430,NA,145235120,NA,"Netzschkau, Stadt","no",8.54799427254379
+"12","DEST039","DEST039","DE","Germany","Brocken",1993-01-28,NA,"Background","rural background","rural","remote",NA,10.618275,51.798626,1142,"SCHIERKE",NA,NA,NA,"no",3.58932640812765
+"13","DEHE039","DEHE039","DE","Germany","Burg Herzberg (Grebenau)",1983-05-01,NA,"Background","rural","rural","unknown",NA,9.459403,50.770382,491,"HERZBERG",NA,6632004,"Breitenbach a. Herzberg","no",8.40025426823328
+"14","DEBY124","DEBY124","DE","Germany","Burgbernheim/Am Hessinggraben",2012-01-01,NA,"Background","rural","rural","regional",NA,10.316582,49.444516,384,NA,NA,NA,NA,"no",12.0127251020025
+"15","DESN076","DESN076","DE","Germany","Collmberg",1998-10-01,NA,"Background","rural background","rural","remote",NA,13.009405,51.303772,313,"COLLM",NA,14730330,"Wermsdorf","no",8.63682501630688
+"16","DEST104","DEST104","DE","Germany","Domäne Bobbe",2009-12-17,NA,"Background","rural","rural","unknown",NA,11.891525,51.83728,71,NA,NA,15082256,"Osternienburger Land","no",9.35443745679894
+"17","DETH026","DETH026","DE","Germany","Dreißigacker",1991-07-01,NA,"Background","rural","rural","regional",NA,10.3753,50.561752,450,"DREIßIGACKER",160665050,NA,"Meiningen, Stadt","no",8.99524803986339
+"18","DEBW004","DEBW004","DE","Germany","Eggenstein",1976-09-01,NA,"Background","rural","rural","near city","Unknown",8.40666,49.07655,109,NA,NA,8215102,"Eggenstein-Leopoldshafen","no",20.4938432799604
+"19","DENI059","DENI059","DE","Germany","Elbmündung",1998-03-20,NA,"Background","rural","rural","unknown",NA,8.80122,53.83017,3,NA,NA,3352011,"Cuxhaven, Stadt","no",11.1047896490541
+"20","DEUB046","DEUB046","DE","Germany","Forellenbach",2000-01-01,NA,"Background","rural background","rural","remote",NA,13.420573,48.947611,858,NA,92729444,NA,"Gdefr. Geb. (Lkr Freyung-Grafenau)","no",4.33394598938278
+"21","DEHE028","DEHE028","DE","Germany","Fürth/Odenwald",1986-10-01,NA,"Background","rural","rural","unknown",NA,8.81725,49.653465,484,"FÜRTH/ODENWALD",NA,6431007,"Fürth","no",8.12022516655614
+"22","DEMV026","DEMV026","DE","Germany","Garz",2013-01-01,NA,"Background","rural","rural","unknown",NA,13.342138,54.323514,17,NA,NA,NA,NA,"no",4.38377662356016
+"23","DETH040","DETH040","DE","Germany","Großer Eisenberg",1994-12-04,NA,"Background","rural background","rural","remote","Wide street: L/H > 1.5",10.787137,50.619179,907,"EISENACH",160705008,NA,"Schmiedefeld am Rennsteig","no",4.39045864584688
+"24","DEMV017","DEMV017","DE","Germany","Göhlen",1998-02-01,NA,"Background","rural","rural","unknown",NA,11.362965,53.302353,25,"GÖHLEN",130545416,NA,"Göhlen","no",6.0045517369463
+"25","DEMV004","DEMV004","DE","Germany","Gülzow",1992-01-01,NA,"Background","rural","rural","unknown",NA,12.064709,53.817772,17,NA,130535313,NA,"Gülzow-Prüzen","no",6.84380097514216
+"26","DEBB053","DEBB053","DE","Germany","Hasenholz",2000-11-21,NA,"Background","rural","rural","regional",NA,14.015253,52.563835,88,"BUCKOW",120645408,NA,"Buckow (Märkische Schweiz), Stadt","no",9.11027913976318
+"27","DETH061","DETH061","DE","Germany","Hummelshain",1999-10-07,NA,"Background","rural background","rural","remote",NA,11.661233,50.791618,357,NA,160745007,NA,"Trockenborn-Wolfersdorf","no",5.70437278548512
+"28","DERP014","DERP014","DE","Germany","Hunsrück-Leisel",1984-01-01,NA,"Background","rural","rural","unknown",NA,7.193486,49.741035,650,"LEISEL",71345002,NA,"Siesbach","no",5.22388231479155
+"29","DENI031","DENI031","DE","Germany","Jadebusen",1984-06-01,NA,"Background","rural","rural","unknown",NA,8.09059,53.59617,2,NA,NA,3405000,"Wilhelmshaven, Stadt","no",10.450504669281
+"30","DEHE060","DEHE060","DE","Germany","Kellerwald",2005-10-09,NA,"Background","rural","rural","regional",NA,9.031753,51.154842,483,NA,NA,6635009,"Edertal","no",6.50054730047827
+"31","DEHE052","DEHE052","DE","Germany","Kleiner Feldberg",1992-03-12,NA,"Background","rural","rural","unknown",NA,8.446078,50.221943,811,NA,NA,6434003,"Glashütten","no",6.91381743080105
+"32","DEBY004","DEBY004","DE","Germany","Kleinwallstadt/Hofstetter Straße",1978-08-01,NA,"Background","suburban","rural","near city",NA,9.171545,49.869419,124,"KLEINWALLSTADT",96765630,NA,"Kleinwallstadt, M","no",17.1075234266027
+"33","DEMV024","DEMV024","DE","Germany","Leizen",2010-06-16,NA,"Background","rural","rural","unknown",NA,12.463929,53.396348,116,NA,130565621,NA,"Leizen","no",6.52052582675161
+"34","DEHE042","DEHE042","DE","Germany","Linden/Leihgestern",1995-04-05,NA,"Background","rural","rural","unknown",NA,8.684398,50.532963,172,NA,NA,6531012,"Linden, Stadt","no",17.1940023307549
+"35","DEMV012","DEMV012","DE","Germany","Löcknitz",1994-01-15,NA,"Background","rural","rural","unknown",NA,14.257408,53.520458,17,"MEWEGEN",130625212,NA,"Rothenklempenow","no",6.57247171010265
+"36","DEBB065","DEBB065","DE","Germany","Lütte (Belzig)",2003-02-14,NA,"Background","rural","rural","regional",NA,12.561389,52.194225,111,NA,NA,NA,NA,"no",6.56880813059079
+"37","DEBY013","DEBY013","DE","Germany","Mehring/Sportplatz",1977-03-01,NA,"Background","rural","rural","regional",NA,12.781385,48.182835,415,"MEHRING",91715101,NA,"Mehring","no",14.5256757113693
+"38","DENW065","DENW065","DE","Germany","Netphen (Rothaargebirge)",1985-12-01,NA,"Background","rural","rural","regional",NA,8.191934,50.930328,635,NA,NA,5970032,"Netphen, Stadt","no",5.58289063699499
+"39","DENW066","DENW066","DE","Germany","Nettetal-Kaldenkirchen",1987-12-01,NA,"Background","rural","rural","near city",NA,6.195867,51.326939,49,"NETTETAL",NA,5166016,"Nettetal, Stadt","no",19.6006767232685
+"40","DEUB030","DEUB030","DE","Germany","Neuglobsow",1991-11-01,NA,"Background","rural","rural","regional",NA,13.031661,53.141304,65,"NEUGLOBSOW",120655502,NA,"Stechlin","yes",4.24803312287906
+"41","DETH027","DETH027","DE","Germany","Neuhaus",1991-08-12,NA,"Background","rural background","rural","remote","Unknown",11.134591,50.499954,840,NA,160725051,NA,"Neuhaus am Rennweg, Stadt","no",5.45606610438469
+"42","DEBY049","DEBY049","DE","Germany","Neustadt a.d. Donau/Eining",1977-03-01,NA,"Background","rural","rural","regional",NA,11.777817,48.85321,359,"NEUSTADT A.D.DONAU",NA,9273152,"Neustadt a.d.Donau, St","no",11.4630163483881
+"43","DESN079","DESN079","DE","Germany","Niesky",2003-05-05,NA,"Background","rural","rural","regional",NA,14.749731,51.285355,148,NA,146265502,NA,"Quitzdorf am See","no",8.34109732382192
+"44","DENI058","DENI058","DE","Germany","Ostfries. Inseln",1996-02-01,NA,"Background","rural","rural","unknown",NA,7.21398,53.715302,5,NA,NA,3452020,"Norderney, Stadt","no",8.45572781449761
+"45","DERP017","DERP017","DE","Germany","Pfälzerwald-Hortenkopf",1986-01-01,NA,"Background","rural","rural","unknown",NA,7.826522,49.270264,606,"HORTENKOPF",73405004,NA,"Merzalben","no",4.99687011217514
+"46","DETH042","DETH042","DE","Germany","Possen",1996-01-12,NA,"Background","rural background","rural","remote",NA,10.867189,51.33308,420,"POSSEN",NA,16065067,"Sondershausen, Stadt","no",5.73150601747079
+"47","DESN051","DESN051","DE","Germany","Radebeul-Wahnsdorf",1967-12-01,NA,"Background","rural","rural","near city","Unknown",13.675006,51.119511,246,"RADEBEUL",NA,14627210,"Radebeul, Stadt","no",12.4315923852659
+"48","DEHE043","DEHE043","DE","Germany","Riedstadt",1996-03-20,NA,"Background","rural","rural","near city",NA,8.516797,49.825165,87,"RIEDSTADT",NA,6433011,"Riedstadt, Stadt","no",16.6801001432396
+"49","DEUB004","DEUB004","DE","Germany","Schauinsland",1968-01-01,NA,"Background","rural","rural","regional",NA,7.908036,47.913254,1205,"OBERRIED-HOFSGRUND",83155003,NA,"Oberried","yes",2.06931790843055
+"50","DEUB029","DEUB029","DE","Germany","Schmücke",1991-06-01,NA,"Background","rural","rural","unknown",NA,10.769533,50.654068,937,"GEHLBERG",NA,NA,NA,"yes",4.39045864584688
+"51","DESN074","DESN074","DE","Germany","Schwartenberg",1998-02-06,NA,"Background","rural","rural","regional",NA,13.465077,50.6591,785,"NEUHAUSEN",NA,14522400,"Neuhausen/Erzgeb.","no",7.68523284266574
+"52","DEBW031","DEBW031","DE","Germany","Schwarzwald-Süd",1984-01-01,NA,"Background","rural","rural","regional",NA,7.764528,47.809892,904,NA,83155012,NA,"Sulzburg, Stadt","no",3.43899260026653
+"53","DEBW087","DEBW087","DE","Germany","Schwäbische_Alb",1994-04-27,NA,"Background","rural","rural","regional",NA,9.207639,48.345778,798,"ERPFINGEN",NA,8415091,"Sonnenbühl","no",6.54033897972764
+"54","DENW064","DENW064","DE","Germany","Simmerath (Eifel)",1983-09-01,NA,"Background","rural","rural","regional",NA,6.28107,50.653236,572,"SIMMERATH",NA,5334028,"Simmerath","no",5.50900986641498
+"55","DENW068","DENW068","DE","Germany","Soest-Ost",1989-03-01,NA,"Background","rural","rural","near city",NA,8.148061,51.57066,110,"SOEST",NA,5974040,"Soest, Stadt","no",12.6704145855551
+"56","DENI077","DENI077","DE","Germany","Solling-Süd",2010-01-01,NA,"Background","rural","rural","unknown",NA,9.55462,51.708839,295,NA,31559501,NA,"Solling (Landkreis Northeim), gemfr. Geb.","no",8.40113799392387
+"57","DEHE026","DEHE026","DE","Germany","Spessart",1986-01-01,NA,"Background","rural","rural","regional",NA,9.399442,50.164433,502,"SPESSART",NA,6435016,"Jossgrund","no",7.53823212884927
+"58","DEBB066","DEBB066","DE","Germany","Spreewald",2003-04-17,NA,"Background","rural","rural","regional",NA,14.057064,51.897598,52,NA,120615113,NA,"Neu Zauche","no",6.24248930380677
+"59","DEBY072","DEBY072","DE","Germany","Tiefenbach/Altenschneeberg",1983-10-01,NA,"Background","rural","rural","regional",NA,12.54887,49.438465,755,"TIEFENBACH",93725308,NA,"Tiefenbach","no",6.55314033706656
+"60","DEST098","DEST098","DE","Germany","Unterharz / Friedrichsbrunn",2003-06-24,NA,"Background","rural","rural","regional",NA,11.043384,51.662453,410,NA,NA,NA,NA,"no",4.32497222505858
+"61","DEUB005","DEUB005","DE","Germany","Waldhof",1970-01-01,NA,"Background","rural","rural","unknown",NA,10.756733,52.800774,74,"ZELLA-MEHLIS",33605402,NA,"Lüder","yes",6.63739072479952
+"62","DEHE051","DEHE051","DE","Germany","Wasserkuppe",2000-07-05,NA,"Background","rural","rural","unknown",NA,9.935862,50.497711,931,"WASSERKUPPE",NA,6631010,"Gersfeld (Rhön), Stadt","no",5.25851640070489
+"63","DENI060","DENI060","DE","Germany","Wendland",1998-04-01,NA,"Background","rural","rural","unknown",NA,11.16705,52.95702,16,NA,33545407,NA,"Lüchow (Wendland), Stadt","no",9.88399812585395
+"64","DERP015","DERP015","DE","Germany","Westeifel Wascheid",1984-01-01,NA,"Background","rural","rural","unknown",NA,6.3781,50.2665,680,"WASCHEID",72325006,NA,"Gondenbrett","no",5.27028385334603
+"65","DEUB001","DEUB001","DE","Germany","Westerland",1968-01-01,NA,"Background","rural","rural","unknown",NA,8.308208,54.924969,12,"WESTERLAND",NA,1054168,"Sylt","yes",5.12374340170511
+"66","DERP016","DERP016","DE","Germany","Westerwald-Herdorf",1984-01-01,NA,"Background","rural","rural","unknown",NA,7.9735,50.76675,480,"HERDORF",NA,7132050,"Herdorf, Stadt","no",7.56088874670474
+"67","DERP028","DERP028","DE","Germany","Westerwald-Neuhäusel",1994-01-01,NA,"Background","rural","rural","unknown",NA,7.7299,50.4243,546,"NEUSTADT",71435004,NA,"Montabaur, Stadt","no",8.17632817159236
+"68","DERP013","DERP013","DE","Germany","Westpfalz-Waldmohr",1984-01-01,NA,"Background","rural","rural","unknown",NA,7.293522,49.423138,455,"DUNZWEILER",73365006,NA,"Dunzweiler","no",7.24149623947017
+"69","DEHE024","DEHE024","DE","Germany","Witzenhausen/Wald",1983-05-01,NA,"Background","rural","rural","unknown",NA,9.774589,51.291759,610,"WITZENHAUSEN/WALD",66369200,NA,"Gutsbezirk Kaufunger Wald, gemfr. Gebiet","no",6.34763255724478
+"70","DENI051","DENI051","DE","Germany","Wurmberg",1991-06-06,NA,"Background","rural","rural","unknown",NA,10.612481,51.758163,939,NA,NA,3153003,"Braunlage, Stadt","no",5.6522811443484
+"71","DEST089","DEST089","DE","Germany","Zartau/Waldstation",1997-12-01,NA,"Background","rural","rural","regional",NA,11.17235,52.59317,95,"BITTERFELD",NA,NA,NA,"no",6.3495816196627
+"72","DEHE050","DEHE050","DE","Germany","Zierenberg",2000-05-01,NA,"Background","rural","rural","unknown",NA,9.271233,51.360752,489,"ZIERENBERG",NA,6633029,"Zierenberg, Stadt","no",8.54935178335138
+"73","DEUB028","DEUB028","DE","Germany","Zingst",1991-09-01,NA,"Background","rural","rural","unknown",NA,12.721938,54.436989,1,"ZINGST",NA,13057096,"Zingst","yes",5.19779400834611
+"74","DESN052","DESN052","DE","Germany","Zinnwald",1978-05-01,NA,"Background","rural","rural","regional",NA,13.75145,50.731476,877,"ZINNWALD",146285201,NA,"Altenberg, Stadt","no",6.71980898378232

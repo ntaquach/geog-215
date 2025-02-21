@@ -35,6 +35,11 @@ mean_nop <- al_hosp %>% group_by(City) %>%
 mean_nop
 ```
 
+```{r}
+
+```
+
+
 ## Including Plots
 
 You can also embed plots, for example:

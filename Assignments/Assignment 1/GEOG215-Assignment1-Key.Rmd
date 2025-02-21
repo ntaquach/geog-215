@@ -1,0 +1,35 @@
+---
+title: "Assignment 1 Key"
+author: "Paul Taillie"
+date: "2025-01-23"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+
+******
+
+## Vaccination Rates
+
+
+```{r, include=FALSE }
+# read in the vaccination data and make table
+vax_data<- read.csv("Assignments/CA-Kindergarten-Data.csv")%>%
+  mutate(UPTODATE=as.numeric(UPTODATE))%>%
+  mutate(VaxRate=UPTODATE/ENROLLMENT)%>%
+  group_by(CITY)%>%
+  summarize(meanVaxRate=mean(VaxRate,na.rm=T))
+
+```
+
+The table below shows the average vaccination rate among cities in Alameda County, California. 
+
+```{r echo=FALSE}
+knitr::kable(vax_data)
+```
+
+
