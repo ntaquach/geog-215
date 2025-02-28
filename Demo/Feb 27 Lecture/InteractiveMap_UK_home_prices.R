@@ -65,10 +65,11 @@ prices_2017<-prices%>%
 # We'll start with the boundaries, and join the prices data to them
 LSOA_with_prices<-LSOA%>%
   left_join(prices_2017,by="Code")%>%
-  drop_na(MeanHomePrice)%>% # get ride of LSOA's that didn't have home prices
+  #drop_na(MeanHomePrice)%>% # get ride of LSOA's that didn't have home prices
+  filter(!is.na(MeanHomePrice)) %>%  # Keep only rows where MeanHomePrice is NOT NA
   group_by(Code)%>%
   summarize(MeanHomePrice=mean(MeanHomePrice)) #looks good!!
-
+LSOA_with_prices
 #----------------------------------------------------------
 #     Summaries
 #----------------------------------------------------------
@@ -119,10 +120,10 @@ LSOA_WGS84<-st_transform(LSOA_with_prices, crs = 4326)
 
 # one color first
 m <- leaflet()%>%
-  addProviderTiles(providers$CartoDB.Positron)%>%
+  addProviderTiles(providers$Esri.WorldImagery)%>%
   addPolygons(data=LSOA_WGS84,
               stroke=T,
-              weight=0.5,
+              weight=1.5,
               color="#37B1ED",
               opacity=1)
 m # cool!
@@ -164,3 +165,5 @@ m3 <- leaflet()%>%
   )
 
 m3
+
+ggplot() + geom_boxplot(data=mtcars, x=hp, y=mpg)
